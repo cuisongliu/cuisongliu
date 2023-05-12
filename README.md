@@ -6,6 +6,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about kubernetes
 - 📫 How to reach me: cuisongliu@qq.com or at my [blog](https://cuisongliu.github.io) [website](https://www.cuisongliu.com)
 
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cuisongliu)](https://github.com/anuraghazra/github-readme-stats)
 
 
