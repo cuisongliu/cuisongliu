@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3075](https://github.com/labring/sealos/issues/3075) in [labring/sealos](https://github.com/labring/sealos)
-2. 🗣 Commented on [#3057](https://github.com/labring/sealos/issues/3057) in [labring/sealos](https://github.com/labring/sealos)
+1. 🗣 Commented on [#3079](https://github.com/labring/sealos/issues/3079) in [labring/sealos](https://github.com/labring/sealos)
+2. ❗️ Opened issue [#3075](https://github.com/labring/sealos/issues/3075) in [labring/sealos](https://github.com/labring/sealos)
 3. 🗣 Commented on [#3057](https://github.com/labring/sealos/issues/3057) in [labring/sealos](https://github.com/labring/sealos)
-4. ❗️ Opened issue [#8](https://github.com/cuisongliu/notes/issues/8) in [cuisongliu/notes](https://github.com/cuisongliu/notes)
-5. ❗️ Opened issue [#7](https://github.com/cuisongliu/notes/issues/7) in [cuisongliu/notes](https://github.com/cuisongliu/notes)
+4. 🗣 Commented on [#3057](https://github.com/labring/sealos/issues/3057) in [labring/sealos](https://github.com/labring/sealos)
+5. ❗️ Opened issue [#8](https://github.com/cuisongliu/notes/issues/8) in [cuisongliu/notes](https://github.com/cuisongliu/notes)
 <!--END_SECTION:activity-->
 
 ---
