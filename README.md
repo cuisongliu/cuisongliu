@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/labring/sealvm/issues/2) in [labring/sealvm](https://github.com/labring/sealvm)
-2. 🎉 Merged PR [#33](https://github.com/labring/sealvm/pull/33) in [labring/sealvm](https://github.com/labring/sealvm)
-3. 💪 Opened PR [#33](https://github.com/labring/sealvm/pull/33) in [labring/sealvm](https://github.com/labring/sealvm)
-4. 🎉 Merged PR [#347](https://github.com/labring-actions/cluster-image/pull/347) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. ❗️ Closed issue [#3094](https://github.com/labring/sealos/issues/3094) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#34](https://github.com/labring/sealvm/pull/34) in [labring/sealvm](https://github.com/labring/sealvm)
+2. 💪 Opened PR [#34](https://github.com/labring/sealvm/pull/34) in [labring/sealvm](https://github.com/labring/sealvm)
+3. ❗️ Closed issue [#2](https://github.com/labring/sealvm/issues/2) in [labring/sealvm](https://github.com/labring/sealvm)
+4. 🎉 Merged PR [#33](https://github.com/labring/sealvm/pull/33) in [labring/sealvm](https://github.com/labring/sealvm)
+5. 💪 Opened PR [#33](https://github.com/labring/sealvm/pull/33) in [labring/sealvm](https://github.com/labring/sealvm)
 <!--END_SECTION:activity-->
 
 ---
