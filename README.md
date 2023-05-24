@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#544](https://github.com/cuisongliu/sealos/pull/544) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🎉 Merged PR [#3122](https://github.com/labring/sealos/pull/3122) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#3121](https://github.com/labring/sealos/pull/3121) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#3121](https://github.com/labring/sealos/pull/3121) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#3108](https://github.com/labring/sealos/issues/3108) in [labring/sealos](https://github.com/labring/sealos)
+1. 💪 Opened PR [#3124](https://github.com/labring/sealos/pull/3124) in [labring/sealos](https://github.com/labring/sealos)
+2. 🎉 Merged PR [#544](https://github.com/cuisongliu/sealos/pull/544) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+3. 🎉 Merged PR [#3122](https://github.com/labring/sealos/pull/3122) in [labring/sealos](https://github.com/labring/sealos)
+4. 🎉 Merged PR [#3121](https://github.com/labring/sealos/pull/3121) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#3121](https://github.com/labring/sealos/pull/3121) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
