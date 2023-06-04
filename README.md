@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#564](https://github.com/cuisongliu/sealos/issues/564) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🔒 Closed issue [#563](https://github.com/cuisongliu/sealos/issues/563) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-3. 🗣 Commented on [#563](https://github.com/cuisongliu/sealos/issues/563) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-4. ❗ Opened issue [#563](https://github.com/cuisongliu/sealos/issues/563) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-5. ❌ Closed PR [#559](https://github.com/cuisongliu/sealos/pull/559) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+1. 🔒 Closed issue [#3110](https://github.com/labring/sealos/issues/3110) in [labring/sealos](https://github.com/labring/sealos)
+2. ❗ Opened issue [#1](https://github.com/labring/issues-translate-action/issues/1) in [labring/issues-translate-action](https://github.com/labring/issues-translate-action)
+3. 🗣 Commented on [#567](https://github.com/cuisongliu/sealos/issues/567) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+4. 🗣 Commented on [#567](https://github.com/cuisongliu/sealos/issues/567) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+5. ❗ Opened issue [#567](https://github.com/cuisongliu/sealos/issues/567) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
 <!--END_SECTION:activity-->
 
 ---
