@@ -29,24 +29,10 @@ Here are some ideas to get you started:
 
 ## 📈 Stats
 
-<table>
-<tbody>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SignorMercurio&theme=material-palenight" alt="GitHub activity" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://github-profile-trophy.vercel.app/?username=signormercurio&theme=onedark&no-frame=true&row=2&column=3" alt="Trophy" />
-    </td>
-    <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=signormercurio&count_private=true&show_icons=true&theme=material-palenight" alt="Github stats" />
-    </td>
-  </tr>
-</tbody>
-</table>
-
+<p align="center">
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cuisongliu&theme=dracula&show_icons=true" alt="maemreyo" width="380" height="152" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=cuisongliu&theme=dracula&hide_border=false" alt="maemreyo" width="380" height="152"/>
+</p>
 <!--
 **cuisongliu/cuisongliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
