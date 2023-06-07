@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3310](https://github.com/labring/sealos/pull/3310) in [labring/sealos](https://github.com/labring/sealos)
-2. ❌ Closed PR [#575](https://github.com/cuisongliu/sealos/pull/575) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-3. 🚀 Published release [Pull-Request-Comments-hidden-tags v1.3](https://github.com/Pull-Request-Comments-hidden-tags v1.3) in [labring-actions/Pull-Request-Comments-hidden-tags](https://github.com/labring-actions/Pull-Request-Comments-hidden-tags)
-4. ❌ Closed PR [#1](https://github.com/labring-actions/Pull-Request-Comments-hidden-tags/pull/1) in [labring-actions/Pull-Request-Comments-hidden-tags](https://github.com/labring-actions/Pull-Request-Comments-hidden-tags)
-5. 🚀 Published release [Pull-Request-Comments-hidden-tags v1.2](https://github.com/Pull-Request-Comments-hidden-tags v1.2) in [labring-actions/Pull-Request-Comments-hidden-tags](https://github.com/labring-actions/Pull-Request-Comments-hidden-tags)
+1. 🎉 Merged PR [#13](https://github.com/labring/gh-rebot/pull/13) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+2. 💪 Opened PR [#13](https://github.com/labring/gh-rebot/pull/13) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+3. 🗣 Commented on [#6](https://github.com/labring/gh-rebot/issues/6) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+4. 🎉 Merged PR [#12](https://github.com/labring/gh-rebot/pull/12) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+5. 💪 Opened PR [#12](https://github.com/labring/gh-rebot/pull/12) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
 <!--END_SECTION:activity-->
 
 ---
