@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/labring/gh-rebot/pull/23) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
-2. 🎉 Merged PR [#22](https://github.com/labring/gh-rebot/pull/22) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
-3. 💪 Opened PR [#22](https://github.com/labring/gh-rebot/pull/22) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
-4. 🎉 Merged PR [#21](https://github.com/labring/gh-rebot/pull/21) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
-5. 💪 Opened PR [#21](https://github.com/labring/gh-rebot/pull/21) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+1. 🎉 Merged PR [#27](https://github.com/labring/gh-rebot/pull/27) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+2. 💪 Opened PR [#27](https://github.com/labring/gh-rebot/pull/27) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+3. 🗣 Commented on [#3](https://github.com/labring/gh-rebot/issues/3) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+4. 🎉 Merged PR [#26](https://github.com/labring/gh-rebot/pull/26) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+5. 💪 Opened PR [#26](https://github.com/labring/gh-rebot/pull/26) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
 <!--END_SECTION:activity-->
 
 ---
