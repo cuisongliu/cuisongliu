@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cuisongliu/gh-rebot/issues/1) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
+1. 💪 Opened PR [#34](https://github.com/labring/gh-rebot/pull/34) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
 2. 🗣 Commented on [#1](https://github.com/cuisongliu/gh-rebot/issues/1) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
 3. 🗣 Commented on [#1](https://github.com/cuisongliu/gh-rebot/issues/1) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
 4. 🗣 Commented on [#1](https://github.com/cuisongliu/gh-rebot/issues/1) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
