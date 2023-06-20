@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/cuisongliu/gh-rebot/issues/7) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
-2. 🔒 Closed issue [#5](https://github.com/cuisongliu/gh-rebot/issues/5) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
-3. ❗ Opened issue [#6](https://github.com/cuisongliu/gh-rebot/issues/6) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
-4. ❗ Opened issue [#5](https://github.com/cuisongliu/gh-rebot/issues/5) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
-5. 🔒 Closed issue [#4](https://github.com/cuisongliu/gh-rebot/issues/4) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
+1. 🔒 Closed issue [#8](https://github.com/cuisongliu/gh-rebot/issues/8) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
+2. ❗ Opened issue [#8](https://github.com/cuisongliu/gh-rebot/issues/8) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
+3. 🔒 Closed issue [#7](https://github.com/cuisongliu/gh-rebot/issues/7) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
+4. 🔒 Closed issue [#6](https://github.com/cuisongliu/gh-rebot/issues/6) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
+5. ❗ Opened issue [#7](https://github.com/cuisongliu/gh-rebot/issues/7) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
 <!--END_SECTION:activity-->
 
 ---
