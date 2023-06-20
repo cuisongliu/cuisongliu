@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#370](https://github.com/labring-actions/cluster-image/issues/370) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. 🗣 Commented on [#586](https://github.com/cuisongliu/sealos/issues/586) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
 2. 🗣 Commented on [#370](https://github.com/labring-actions/cluster-image/issues/370) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 3. 🗣 Commented on [#370](https://github.com/labring-actions/cluster-image/issues/370) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 4. 🗣 Commented on [#370](https://github.com/labring-actions/cluster-image/issues/370) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
