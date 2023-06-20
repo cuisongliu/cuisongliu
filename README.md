@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#585](https://github.com/cuisongliu/sealos/pull/585) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🗣 Commented on [#3371](https://github.com/labring/sealos/issues/3371) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#3371](https://github.com/labring/sealos/pull/3371) in [labring/sealos](https://github.com/labring/sealos)
-4. 🗣 Commented on [#3388](https://github.com/labring/sealos/issues/3388) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#3388](https://github.com/labring/sealos/pull/3388) in [labring/sealos](https://github.com/labring/sealos)
+1. ❗ Opened issue [#7](https://github.com/cuisongliu/gh-rebot/issues/7) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
+2. 🔒 Closed issue [#5](https://github.com/cuisongliu/gh-rebot/issues/5) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
+3. ❗ Opened issue [#6](https://github.com/cuisongliu/gh-rebot/issues/6) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
+4. ❗ Opened issue [#5](https://github.com/cuisongliu/gh-rebot/issues/5) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
+5. 🔒 Closed issue [#4](https://github.com/cuisongliu/gh-rebot/issues/4) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
 <!--END_SECTION:activity-->
 
 ---
