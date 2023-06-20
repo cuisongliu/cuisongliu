@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/cuisongliu/gh-rebot/issues/8) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
-2. ❗ Opened issue [#8](https://github.com/cuisongliu/gh-rebot/issues/8) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
-3. 🔒 Closed issue [#7](https://github.com/cuisongliu/gh-rebot/issues/7) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
-4. 🔒 Closed issue [#6](https://github.com/cuisongliu/gh-rebot/issues/6) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
-5. ❗ Opened issue [#7](https://github.com/cuisongliu/gh-rebot/issues/7) in [cuisongliu/gh-rebot](https://github.com/cuisongliu/gh-rebot)
+1. 🗣 Commented on [#3](https://github.com/labring/gh-rebot/issues/3) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+2. 🎉 Merged PR [#38](https://github.com/labring/gh-rebot/pull/38) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+3. 💪 Opened PR [#38](https://github.com/labring/gh-rebot/pull/38) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+4. 🗣 Commented on [#3](https://github.com/labring/gh-rebot/issues/3) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+5. 🎉 Merged PR [#37](https://github.com/labring/gh-rebot/pull/37) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
 <!--END_SECTION:activity-->
 
 ---
