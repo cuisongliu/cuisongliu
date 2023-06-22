@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#372](https://github.com/labring-actions/cluster-image/issues/372) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 2. 🗣 Commented on [#372](https://github.com/labring-actions/cluster-image/issues/372) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. 🔒 Closed issue [#581](https://github.com/cuisongliu/sealos/issues/581) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-4. 🗣 Commented on [#581](https://github.com/cuisongliu/sealos/issues/581) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+3. 🗣 Commented on [#372](https://github.com/labring-actions/cluster-image/issues/372) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🗣 Commented on [#372](https://github.com/labring-actions/cluster-image/issues/372) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 5. 🗣 Commented on [#372](https://github.com/labring-actions/cluster-image/issues/372) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
