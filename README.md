@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2725](https://github.com/labring/sealos/issues/2725) in [labring/sealos](https://github.com/labring/sealos)
-2. ❌ Closed PR [#5](https://github.com/labring-actions/sync-aliyun/pull/5) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-3. ❌ Closed PR [#4](https://github.com/labring-actions/sync-aliyun/pull/4) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-4. ❌ Closed PR [#3](https://github.com/labring-actions/sync-aliyun/pull/3) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-5. 🎉 Merged PR [#2](https://github.com/labring-actions/sync-aliyun/pull/2) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+1. ❌ Closed PR [#6](https://github.com/labring-actions/sync-aliyun/pull/6) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+2. 🗣 Commented on [#2725](https://github.com/labring/sealos/issues/2725) in [labring/sealos](https://github.com/labring/sealos)
+3. ❌ Closed PR [#5](https://github.com/labring-actions/sync-aliyun/pull/5) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+4. ❌ Closed PR [#4](https://github.com/labring-actions/sync-aliyun/pull/4) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+5. ❌ Closed PR [#3](https://github.com/labring-actions/sync-aliyun/pull/3) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
 <!--END_SECTION:activity-->
 
 ---
