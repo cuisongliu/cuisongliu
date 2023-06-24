@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/labring-actions/sync-aliyun/pull/11) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-2. 🎉 Merged PR [#10](https://github.com/labring-actions/sync-aliyun/pull/10) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-3. ❌ Closed PR [#9](https://github.com/labring-actions/sync-aliyun/pull/9) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-4. ❌ Closed PR [#8](https://github.com/labring-actions/sync-aliyun/pull/8) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-5. ❌ Closed PR [#7](https://github.com/labring-actions/sync-aliyun/pull/7) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+1. 🎉 Merged PR [#13](https://github.com/labring-actions/sync-aliyun/pull/13) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+2. ❌ Closed PR [#12](https://github.com/labring-actions/sync-aliyun/pull/12) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+3. ❌ Closed PR [#11](https://github.com/labring-actions/sync-aliyun/pull/11) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+4. 🎉 Merged PR [#10](https://github.com/labring-actions/sync-aliyun/pull/10) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+5. ❌ Closed PR [#9](https://github.com/labring-actions/sync-aliyun/pull/9) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
 <!--END_SECTION:activity-->
 
 ---
