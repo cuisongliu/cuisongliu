@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1312](https://github.com/labring/laf/pull/1312) in [labring/laf](https://github.com/labring/laf)
-2. ❗ Opened issue [#3402](https://github.com/labring/sealos/issues/3402) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#589](https://github.com/cuisongliu/sealos/issues/589) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-4. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. 🗣 Commented on [#2632](https://github.com/labring/sealos/issues/2632) in [labring/sealos](https://github.com/labring/sealos)
+2. 🔒 Closed issue [#3403](https://github.com/labring/sealos/issues/3403) in [labring/sealos](https://github.com/labring/sealos)
+3. ❗ Opened issue [#3403](https://github.com/labring/sealos/issues/3403) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#1312](https://github.com/labring/laf/pull/1312) in [labring/laf](https://github.com/labring/laf)
+5. ❗ Opened issue [#3402](https://github.com/labring/sealos/issues/3402) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
