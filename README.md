@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🗣 Commented on [#372](https://github.com/labring-actions/cluster-image/issues/372) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. 🗣 Commented on [#372](https://github.com/labring-actions/cluster-image/issues/372) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🔒 Closed issue [#373](https://github.com/labring-actions/cluster-image/issues/373) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. 🎉 Merged PR [#17](https://github.com/labring-actions/sync-aliyun/pull/17) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+2. ❌ Closed PR [#16](https://github.com/labring-actions/sync-aliyun/pull/16) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+3. 🎉 Merged PR [#1318](https://github.com/labring/laf/pull/1318) in [labring/laf](https://github.com/labring/laf)
+4. 💪 Opened PR [#1318](https://github.com/labring/laf/pull/1318) in [labring/laf](https://github.com/labring/laf)
+5. 🎉 Merged PR [#1317](https://github.com/labring/laf/pull/1317) in [labring/laf](https://github.com/labring/laf)
 <!--END_SECTION:activity-->
 
 ---
