@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 💪 Opened PR [#3405](https://github.com/labring/sealos/pull/3405) in [labring/sealos](https://github.com/labring/sealos)
-3. 💪 Opened PR [#1317](https://github.com/labring/laf/pull/1317) in [labring/laf](https://github.com/labring/laf)
-4. 🎉 Merged PR [#1312](https://github.com/labring/laf/pull/1312) in [labring/laf](https://github.com/labring/laf)
+2. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 5. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
