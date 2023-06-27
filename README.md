@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3411](https://github.com/labring/sealos/issues/3411) in [labring/sealos](https://github.com/labring/sealos)
-2. 🔒 Reopened issue [#103](https://github.com/labring/endpoints-operator/issues/103) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-3. 💪 Opened PR [#3412](https://github.com/labring/sealos/pull/3412) in [labring/sealos](https://github.com/labring/sealos)
-4. 🎉 Merged PR [#590](https://github.com/cuisongliu/sealos/pull/590) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-5. 🎉 Merged PR [#47](https://github.com/labring/gh-rebot/pull/47) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
+1. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🗣 Commented on [#3411](https://github.com/labring/sealos/issues/3411) in [labring/sealos](https://github.com/labring/sealos)
+4. 🔒 Reopened issue [#103](https://github.com/labring/endpoints-operator/issues/103) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+5. 💪 Opened PR [#3412](https://github.com/labring/sealos/pull/3412) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
