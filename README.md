@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#372](https://github.com/labring-actions/cluster-image/issues/372) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🔒 Closed issue [#3422](https://github.com/labring/sealos/issues/3422) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#3400](https://github.com/labring/sealos/issues/3400) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#3427](https://github.com/labring/sealos/pull/3427) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#591](https://github.com/cuisongliu/sealos/issues/591) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+1. 💪 Opened PR [#1](https://github.com/OpenIMSDK/openim-charts/pull/1) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
+2. 🗣 Commented on [#372](https://github.com/labring-actions/cluster-image/issues/372) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🔒 Closed issue [#3422](https://github.com/labring/sealos/issues/3422) in [labring/sealos](https://github.com/labring/sealos)
+4. 🗣 Commented on [#3400](https://github.com/labring/sealos/issues/3400) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#3427](https://github.com/labring/sealos/pull/3427) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
