@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. ❗ Opened issue [#3428](https://github.com/labring/sealos/issues/3428) in [labring/sealos](https://github.com/labring/sealos)
-3. 💪 Opened PR [#1](https://github.com/OpenIMSDK/openim-charts/pull/1) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
-4. 🗣 Commented on [#372](https://github.com/labring-actions/cluster-image/issues/372) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🔒 Closed issue [#3422](https://github.com/labring/sealos/issues/3422) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#367](https://github.com/labring-actions/cluster-image/issues/367) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. ❗ Opened issue [#3428](https://github.com/labring/sealos/issues/3428) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#1](https://github.com/OpenIMSDK/openim-charts/pull/1) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
+5. 🗣 Commented on [#372](https://github.com/labring-actions/cluster-image/issues/372) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
 ---
