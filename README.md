@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/OpenIMSDK/openim-charts/pull/2) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
-2. 🔒 Closed issue [#2036](https://github.com/labring/sealos/issues/2036) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#2036](https://github.com/labring/sealos/issues/2036) in [labring/sealos](https://github.com/labring/sealos)
-4. 🔒 Closed issue [#2624](https://github.com/labring/sealos/issues/2624) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#2624](https://github.com/labring/sealos/issues/2624) in [labring/sealos](https://github.com/labring/sealos)
+1. 🗣 Commented on [#2994](https://github.com/labring/sealos/issues/2994) in [labring/sealos](https://github.com/labring/sealos)
+2. 🔒 Closed issue [#2994](https://github.com/labring/sealos/issues/2994) in [labring/sealos](https://github.com/labring/sealos)
+3. 🔒 Closed issue [#2989](https://github.com/labring/sealos/issues/2989) in [labring/sealos](https://github.com/labring/sealos)
+4. 🗣 Commented on [#2989](https://github.com/labring/sealos/issues/2989) in [labring/sealos](https://github.com/labring/sealos)
+5. ❗ Opened issue [#3439](https://github.com/labring/sealos/issues/3439) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
