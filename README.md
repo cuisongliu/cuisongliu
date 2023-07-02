@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com/orbstack/orbstack/issues/407) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-2. ❗ Opened issue [#407](https://github.com/orbstack/orbstack/issues/407) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-3. 🗣 Commented on [#406](https://github.com/orbstack/orbstack/issues/406) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-4. ❗ Opened issue [#406](https://github.com/orbstack/orbstack/issues/406) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-5. 🗣 Commented on [#593](https://github.com/cuisongliu/sealos/issues/593) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+1. 🎉 Merged PR [#38](https://github.com/labring/sealvm/pull/38) in [labring/sealvm](https://github.com/labring/sealvm)
+2. 💪 Opened PR [#38](https://github.com/labring/sealvm/pull/38) in [labring/sealvm](https://github.com/labring/sealvm)
+3. 🎉 Merged PR [#37](https://github.com/labring/sealvm/pull/37) in [labring/sealvm](https://github.com/labring/sealvm)
+4. 💪 Opened PR [#37](https://github.com/labring/sealvm/pull/37) in [labring/sealvm](https://github.com/labring/sealvm)
+5. 🗣 Commented on [#407](https://github.com/orbstack/orbstack/issues/407) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
 <!--END_SECTION:activity-->
 
 ---
