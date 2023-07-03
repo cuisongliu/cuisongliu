@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3450](https://github.com/labring/sealos/issues/3450) in [labring/sealos](https://github.com/labring/sealos)
-2. 🗣 Commented on [#410](https://github.com/orbstack/orbstack/issues/410) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-3. ❗ Opened issue [#410](https://github.com/orbstack/orbstack/issues/410) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-4. ❗ Opened issue [#408](https://github.com/orbstack/orbstack/issues/408) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-5. 🗣 Commented on [#594](https://github.com/cuisongliu/sealos/issues/594) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+1. 🎉 Merged PR [#3450](https://github.com/labring/sealos/pull/3450) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#3450](https://github.com/labring/sealos/issues/3450) in [labring/sealos](https://github.com/labring/sealos)
+3. 🗣 Commented on [#410](https://github.com/orbstack/orbstack/issues/410) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
+4. ❗ Opened issue [#410](https://github.com/orbstack/orbstack/issues/410) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
+5. ❗ Opened issue [#408](https://github.com/orbstack/orbstack/issues/408) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
 <!--END_SECTION:activity-->
 
 ---
