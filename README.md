@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3479](https://github.com/labring/sealos/pull/3479) in [labring/sealos](https://github.com/labring/sealos)
-2. 🗣 Commented on [#3479](https://github.com/labring/sealos/issues/3479) in [labring/sealos](https://github.com/labring/sealos)
-3. ❌ Closed PR [#3480](https://github.com/labring/sealos/pull/3480) in [labring/sealos](https://github.com/labring/sealos)
-4. 🗣 Commented on [#3480](https://github.com/labring/sealos/issues/3480) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#3480](https://github.com/labring/sealos/issues/3480) in [labring/sealos](https://github.com/labring/sealos)
+1. 💪 Opened PR [#122](https://github.com/labring/endpoints-operator/pull/122) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+2. 🎉 Merged PR [#121](https://github.com/labring/endpoints-operator/pull/121) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+3. 💪 Opened PR [#121](https://github.com/labring/endpoints-operator/pull/121) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+4. 🎉 Merged PR [#120](https://github.com/labring/endpoints-operator/pull/120) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+5. 💪 Opened PR [#120](https://github.com/labring/endpoints-operator/pull/120) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
 <!--END_SECTION:activity-->
 
 ---
