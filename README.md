@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/labring/endpoints-operator/pull/122) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-2. 🎉 Merged PR [#121](https://github.com/labring/endpoints-operator/pull/121) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-3. 💪 Opened PR [#121](https://github.com/labring/endpoints-operator/pull/121) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-4. 🎉 Merged PR [#120](https://github.com/labring/endpoints-operator/pull/120) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-5. 💪 Opened PR [#120](https://github.com/labring/endpoints-operator/pull/120) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+1. 🗣 Commented on [#127](https://github.com/labring/endpoints-operator/issues/127) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+2. 🗣 Commented on [#127](https://github.com/labring/endpoints-operator/issues/127) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+3. ❗ Opened issue [#127](https://github.com/labring/endpoints-operator/issues/127) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+4. 🎉 Merged PR [#126](https://github.com/labring/endpoints-operator/pull/126) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+5. 💪 Opened PR [#126](https://github.com/labring/endpoints-operator/pull/126) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
 <!--END_SECTION:activity-->
 
 ---
