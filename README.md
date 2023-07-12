@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3488](https://github.com/labring/sealos/issues/3488) in [labring/sealos](https://github.com/labring/sealos)
-2. 🗣 Commented on [#3492](https://github.com/labring/sealos/issues/3492) in [labring/sealos](https://github.com/labring/sealos)
+1. 🗣 Commented on [#32](https://github.com/labring-actions/cluster-image/issues/32) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#32](https://github.com/labring-actions/cluster-image/issues/32) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 3. 🗣 Commented on [#32](https://github.com/labring-actions/cluster-image/issues/32) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 4. 🗣 Commented on [#32](https://github.com/labring-actions/cluster-image/issues/32) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 💪 Opened PR [#3490](https://github.com/labring/sealos/pull/3490) in [labring/sealos](https://github.com/labring/sealos)
+5. 🗣 Commented on [#32](https://github.com/labring-actions/cluster-image/issues/32) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
 ---
