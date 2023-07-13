@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#602](https://github.com/cuisongliu/sealos/issues/602) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🎉 Merged PR [#2](https://github.com/labring/kubebuilder4helm/pull/2) in [labring/kubebuilder4helm](https://github.com/labring/kubebuilder4helm)
-3. 💪 Opened PR [#2](https://github.com/labring/kubebuilder4helm/pull/2) in [labring/kubebuilder4helm](https://github.com/labring/kubebuilder4helm)
-4. 🔒 Closed issue [#601](https://github.com/cuisongliu/sealos/issues/601) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-5. ❗ Opened issue [#601](https://github.com/cuisongliu/sealos/issues/601) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+1. 🎉 Merged PR [#3490](https://github.com/labring/sealos/pull/3490) in [labring/sealos](https://github.com/labring/sealos)
+2. 💪 Opened PR [#4](https://github.com/labring/kubebuilder4helm/pull/4) in [labring/kubebuilder4helm](https://github.com/labring/kubebuilder4helm)
+3. 🔒 Closed issue [#3498](https://github.com/labring/sealos/issues/3498) in [labring/sealos](https://github.com/labring/sealos)
+4. 🎉 Merged PR [#3](https://github.com/labring/kubebuilder4helm/pull/3) in [labring/kubebuilder4helm](https://github.com/labring/kubebuilder4helm)
+5. 💪 Opened PR [#3](https://github.com/labring/kubebuilder4helm/pull/3) in [labring/kubebuilder4helm](https://github.com/labring/kubebuilder4helm)
 <!--END_SECTION:activity-->
 
 ---
