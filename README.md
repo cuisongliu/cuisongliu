@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#600](https://github.com/cuisongliu/sealos/pull/600) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🗣 Commented on [#3498](https://github.com/labring/sealos/issues/3498) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#600](https://github.com/cuisongliu/sealos/issues/600) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-4. 🔒 Closed issue [#3472](https://github.com/labring/sealos/issues/3472) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#3472](https://github.com/labring/sealos/issues/3472) in [labring/sealos](https://github.com/labring/sealos)
+1. 🔒 Closed issue [#601](https://github.com/cuisongliu/sealos/issues/601) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+2. ❗ Opened issue [#601](https://github.com/cuisongliu/sealos/issues/601) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+3. ❗ Opened issue [#3495](https://github.com/kubernetes-sigs/kubebuilder/issues/3495) in [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
+4. 🎉 Merged PR [#600](https://github.com/cuisongliu/sealos/pull/600) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+5. 🗣 Commented on [#3498](https://github.com/labring/sealos/issues/3498) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
