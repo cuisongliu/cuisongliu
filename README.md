@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3532](https://github.com/labring/sealos/pull/3532) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#12237](https://github.com/helm/helm/pull/12237) in [helm/helm](https://github.com/helm/helm)
-3. 🎉 Merged PR [#3523](https://github.com/labring/sealos/pull/3523) in [labring/sealos](https://github.com/labring/sealos)
-4. ❗ Opened issue [#12234](https://github.com/helm/helm/issues/12234) in [helm/helm](https://github.com/helm/helm)
-5. 🎉 Merged PR [#3520](https://github.com/labring/sealos/pull/3520) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#607](https://github.com/cuisongliu/sealos/pull/607) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+2. 🎉 Merged PR [#3534](https://github.com/labring/sealos/pull/3534) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#3532](https://github.com/labring/sealos/pull/3532) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#12237](https://github.com/helm/helm/pull/12237) in [helm/helm](https://github.com/helm/helm)
+5. 🎉 Merged PR [#3523](https://github.com/labring/sealos/pull/3523) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
