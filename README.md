@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3536](https://github.com/labring/sealos/pull/3536) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#3536](https://github.com/labring/sealos/pull/3536) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#3535](https://github.com/labring/sealos/pull/3535) in [labring/sealos](https://github.com/labring/sealos)
-4. 🗣 Commented on [#11352](https://github.com/helm/helm/issues/11352#issuecomment-1640528675) in [helm/helm](https://github.com/helm/helm)
-5. 🗣 Commented on [#11286](https://github.com/helm/helm/issues/11286#issuecomment-1640522407) in [helm/helm](https://github.com/helm/helm)
+1. 💪 Opened PR [#3](https://github.com/OpenIMSDK/openim-charts/pull/3) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
+2. 🎉 Merged PR [#3539](https://github.com/labring/sealos/pull/3539) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#3536](https://github.com/labring/sealos/pull/3536) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#3536](https://github.com/labring/sealos/pull/3536) in [labring/sealos](https://github.com/labring/sealos)
+5. 🎉 Merged PR [#3535](https://github.com/labring/sealos/pull/3535) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
