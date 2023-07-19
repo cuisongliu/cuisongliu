@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/OpenIMSDK/openim-charts/pull/6) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
-2. 💪 Opened PR [#6](https://github.com/OpenIMSDK/openim-charts/pull/6) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
-3. 🎉 Merged PR [#5](https://github.com/OpenIMSDK/openim-charts/pull/5) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
-4. 💪 Opened PR [#5](https://github.com/OpenIMSDK/openim-charts/pull/5) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
-5. 🎉 Merged PR [#4](https://github.com/OpenIMSDK/openim-charts/pull/4) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
+1. 🔒 Closed issue [#2631](https://github.com/labring/sealos/issues/2631) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#2631](https://github.com/labring/sealos/issues/2631#issuecomment-1641612227) in [labring/sealos](https://github.com/labring/sealos)
+3. 🗣 Commented on [#608](https://github.com/cuisongliu/sealos/pull/608#issuecomment-1641575384) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+4. 🎉 Merged PR [#9](https://github.com/OpenIMSDK/openim-charts/pull/9) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
+5. 💪 Opened PR [#9](https://github.com/OpenIMSDK/openim-charts/pull/9) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
 <!--END_SECTION:activity-->
 
 ---
