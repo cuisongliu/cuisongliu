@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/OpenIMSDK/openim-charts/pull/3) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
-2. 🎉 Merged PR [#3539](https://github.com/labring/sealos/pull/3539) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#3536](https://github.com/labring/sealos/pull/3536) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#3536](https://github.com/labring/sealos/pull/3536) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#3535](https://github.com/labring/sealos/pull/3535) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#6](https://github.com/OpenIMSDK/openim-charts/pull/6) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
+2. 💪 Opened PR [#6](https://github.com/OpenIMSDK/openim-charts/pull/6) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
+3. 🎉 Merged PR [#5](https://github.com/OpenIMSDK/openim-charts/pull/5) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
+4. 💪 Opened PR [#5](https://github.com/OpenIMSDK/openim-charts/pull/5) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
+5. 🎉 Merged PR [#4](https://github.com/OpenIMSDK/openim-charts/pull/4) in [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts)
 <!--END_SECTION:activity-->
 
 ---
