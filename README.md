@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2860](https://github.com/koderover/zadig/issues/2860) in [koderover/zadig](https://github.com/koderover/zadig)
-2. 🗣 Commented on [#12234](https://github.com/helm/helm/issues/12234#issuecomment-1646568219) in [helm/helm](https://github.com/helm/helm)
-3. 🎉 Merged PR [#22](https://github.com/labring-actions/sync-aliyun/pull/22) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-4. 🎉 Merged PR [#3570](https://github.com/labring/sealos/pull/3570) in [labring/sealos](https://github.com/labring/sealos)
-5. 🔒 Closed issue [#3527](https://github.com/labring/sealos/issues/3527) in [labring/sealos](https://github.com/labring/sealos)
+1. 🗣 Commented on [#610](https://github.com/cuisongliu/sealos/pull/610#issuecomment-1646626458) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+2. ❗ Opened issue [#2860](https://github.com/koderover/zadig/issues/2860) in [koderover/zadig](https://github.com/koderover/zadig)
+3. 🗣 Commented on [#12234](https://github.com/helm/helm/issues/12234#issuecomment-1646568219) in [helm/helm](https://github.com/helm/helm)
+4. 🎉 Merged PR [#22](https://github.com/labring-actions/sync-aliyun/pull/22) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+5. 🎉 Merged PR [#3570](https://github.com/labring/sealos/pull/3570) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
