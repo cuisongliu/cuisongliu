@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2860](https://github.com/koderover/zadig/issues/2860#issuecomment-1649824242) in [koderover/zadig](https://github.com/koderover/zadig)
-2. 🎉 Merged PR [#435](https://github.com/labring-actions/cluster-image/pull/435) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. 🗣 Commented on [#612](https://github.com/cuisongliu/sealos/pull/612#issuecomment-1649302332) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-4. 🎉 Merged PR [#3574](https://github.com/labring/sealos/pull/3574) in [labring/sealos](https://github.com/labring/sealos)
-5. 🔒 Closed issue [#3428](https://github.com/labring/sealos/issues/3428) in [labring/sealos](https://github.com/labring/sealos)
+1. 🗣 Commented on [#2860](https://github.com/koderover/zadig/issues/2860#issuecomment-1650957155) in [koderover/zadig](https://github.com/koderover/zadig)
+2. 🗣 Commented on [#2860](https://github.com/koderover/zadig/issues/2860#issuecomment-1650955984) in [koderover/zadig](https://github.com/koderover/zadig)
+3. 🗣 Commented on [#2860](https://github.com/koderover/zadig/issues/2860#issuecomment-1649824242) in [koderover/zadig](https://github.com/koderover/zadig)
+4. 🎉 Merged PR [#435](https://github.com/labring-actions/cluster-image/pull/435) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. 🗣 Commented on [#612](https://github.com/cuisongliu/sealos/pull/612#issuecomment-1649302332) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
 <!--END_SECTION:activity-->
 
 ---
