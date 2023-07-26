@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3591](https://github.com/labring/sealos/pull/3591) in [labring/sealos](https://github.com/labring/sealos)
-2. 🎉 Merged PR [#3590](https://github.com/labring/sealos/pull/3590) in [labring/sealos](https://github.com/labring/sealos)
-3. 🔒 Closed issue [#3585](https://github.com/labring/sealos/issues/3585) in [labring/sealos](https://github.com/labring/sealos)
-4. 🎉 Merged PR [#3588](https://github.com/labring/sealos/pull/3588) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#23](https://github.com/labring-actions/sync-aliyun/pull/23) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+1. 🎉 Merged PR [#12](https://github.com/labring/kubebuilder4helm/pull/12) in [labring/kubebuilder4helm](https://github.com/labring/kubebuilder4helm)
+2. 💪 Opened PR [#12](https://github.com/labring/kubebuilder4helm/pull/12) in [labring/kubebuilder4helm](https://github.com/labring/kubebuilder4helm)
+3. 🎉 Merged PR [#11](https://github.com/labring/kubebuilder4helm/pull/11) in [labring/kubebuilder4helm](https://github.com/labring/kubebuilder4helm)
+4. 💪 Opened PR [#11](https://github.com/labring/kubebuilder4helm/pull/11) in [labring/kubebuilder4helm](https://github.com/labring/kubebuilder4helm)
+5. 💪 Opened PR [#3591](https://github.com/labring/sealos/pull/3591) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
