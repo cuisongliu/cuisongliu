@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3591](https://github.com/labring/sealos/pull/3591) in [labring/sealos](https://github.com/labring/sealos)
-2. 🎉 Merged PR [#3593](https://github.com/labring/sealos/pull/3593) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#3592](https://github.com/labring/sealos/pull/3592) in [labring/sealos](https://github.com/labring/sealos)
-4. 🔒 Closed issue [#2860](https://github.com/koderover/zadig/issues/2860) in [koderover/zadig](https://github.com/koderover/zadig)
-5. 🗣 Commented on [#2860](https://github.com/koderover/zadig/issues/2860#issuecomment-1652878010) in [koderover/zadig](https://github.com/koderover/zadig)
+1. 🎉 Merged PR [#24](https://github.com/labring-actions/sync-aliyun/pull/24) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+2. 🎉 Merged PR [#3591](https://github.com/labring/sealos/pull/3591) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#3593](https://github.com/labring/sealos/pull/3593) in [labring/sealos](https://github.com/labring/sealos)
+4. 🎉 Merged PR [#3592](https://github.com/labring/sealos/pull/3592) in [labring/sealos](https://github.com/labring/sealos)
+5. 🔒 Closed issue [#2860](https://github.com/koderover/zadig/issues/2860) in [koderover/zadig](https://github.com/koderover/zadig)
 <!--END_SECTION:activity-->
 
 ---
