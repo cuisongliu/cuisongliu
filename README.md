@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#614](https://github.com/cuisongliu/sealos/pull/614#issuecomment-1656007982) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🔒 Closed issue [#3597](https://github.com/labring/sealos/issues/3597) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#3597](https://github.com/labring/sealos/issues/3597#issuecomment-1655711205) in [labring/sealos](https://github.com/labring/sealos)
-4. 🗣 Commented on [#3597](https://github.com/labring/sealos/issues/3597#issuecomment-1655709095) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#25](https://github.com/labring-actions/sync-aliyun/pull/25) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+1. 🎉 Merged PR [#17](https://github.com/labring-actions/templates/pull/17) in [labring-actions/templates](https://github.com/labring-actions/templates)
+2. 🗣 Commented on [#614](https://github.com/cuisongliu/sealos/pull/614#issuecomment-1656007982) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+3. 🔒 Closed issue [#3597](https://github.com/labring/sealos/issues/3597) in [labring/sealos](https://github.com/labring/sealos)
+4. 🗣 Commented on [#3597](https://github.com/labring/sealos/issues/3597#issuecomment-1655711205) in [labring/sealos](https://github.com/labring/sealos)
+5. 🗣 Commented on [#3597](https://github.com/labring/sealos/issues/3597#issuecomment-1655709095) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
