@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2896](https://github.com/labring/sealos/pull/2896) in [labring/sealos](https://github.com/labring/sealos)
-2. 🔒 Closed issue [#3618](https://github.com/labring/sealos/issues/3618) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#3618](https://github.com/labring/sealos/issues/3618#issuecomment-1661978365) in [labring/sealos](https://github.com/labring/sealos)
-4. 🗣 Commented on [#3620](https://github.com/labring/sealos/issues/3620#issuecomment-1661975764) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#616](https://github.com/cuisongliu/sealos/pull/616#issuecomment-1660997732) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+1. 🗣 Commented on [#201](https://github.com/proxy-wasm/proxy-wasm-rust-sdk/pull/201#issuecomment-1662598927) in [proxy-wasm/proxy-wasm-rust-sdk](https://github.com/proxy-wasm/proxy-wasm-rust-sdk)
+2. ❌ Closed PR [#2896](https://github.com/labring/sealos/pull/2896) in [labring/sealos](https://github.com/labring/sealos)
+3. 🔒 Closed issue [#3618](https://github.com/labring/sealos/issues/3618) in [labring/sealos](https://github.com/labring/sealos)
+4. 🗣 Commented on [#3618](https://github.com/labring/sealos/issues/3618#issuecomment-1661978365) in [labring/sealos](https://github.com/labring/sealos)
+5. 🗣 Commented on [#3620](https://github.com/labring/sealos/issues/3620#issuecomment-1661975764) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
