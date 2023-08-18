@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/labring-actions/sync-aliyun/pull/30) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-2. 🎉 Merged PR [#3707](https://github.com/labring/sealos/pull/3707) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#47](https://github.com/labring-actions/templates/pull/47) in [labring-actions/templates](https://github.com/labring-actions/templates)
-4. 🎉 Merged PR [#36](https://github.com/labring-actions/templates/pull/36) in [labring-actions/templates](https://github.com/labring-actions/templates)
-5. 🔒 Closed issue [#3701](https://github.com/labring/sealos/issues/3701) in [labring/sealos](https://github.com/labring/sealos)
+1. 🔒 Closed issue [#3711](https://github.com/labring/sealos/issues/3711) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#3711](https://github.com/labring/sealos/issues/3711#issuecomment-1683744455) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#30](https://github.com/labring-actions/sync-aliyun/pull/30) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+4. 🎉 Merged PR [#3707](https://github.com/labring/sealos/pull/3707) in [labring/sealos](https://github.com/labring/sealos)
+5. 🎉 Merged PR [#47](https://github.com/labring-actions/templates/pull/47) in [labring-actions/templates](https://github.com/labring-actions/templates)
 <!--END_SECTION:activity-->
 
 ---
