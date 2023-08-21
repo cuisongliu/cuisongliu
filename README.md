@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#428](https://github.com/labring-actions/cluster-image/issues/428#issuecomment-1685754328) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🗣 Commented on [#428](https://github.com/labring-actions/cluster-image/issues/428#issuecomment-1685754247) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. ❗ Opened issue [#49](https://github.com/labring/gh-rebot/issues/49) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
-4. 🔒 Closed issue [#3719](https://github.com/labring/sealos/issues/3719) in [labring/sealos](https://github.com/labring/sealos)
-5. 💪 Opened PR [#3720](https://github.com/labring/sealos/pull/3720) in [labring/sealos](https://github.com/labring/sealos)
+1. 🔒 Closed issue [#3700](https://github.com/labring/sealos/issues/3700) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#3700](https://github.com/labring/sealos/issues/3700#issuecomment-1685821906) in [labring/sealos](https://github.com/labring/sealos)
+3. 🗣 Commented on [#428](https://github.com/labring-actions/cluster-image/issues/428#issuecomment-1685754328) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🗣 Commented on [#428](https://github.com/labring-actions/cluster-image/issues/428#issuecomment-1685754247) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. ❗ Opened issue [#49](https://github.com/labring/gh-rebot/issues/49) in [labring/gh-rebot](https://github.com/labring/gh-rebot)
 <!--END_SECTION:activity-->
 
 ---
