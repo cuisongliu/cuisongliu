@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#630](https://github.com/cuisongliu/sealos/pull/630#issuecomment-1692017915) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🗣 Commented on [#512](https://github.com/labring-actions/cluster-image/issues/512#issuecomment-1691781218) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. 🗣 Commented on [#512](https://github.com/labring-actions/cluster-image/issues/512#issuecomment-1691763132) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. ❗ Opened issue [#512](https://github.com/labring-actions/cluster-image/issues/512) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🗣 Commented on [#511](https://github.com/labring-actions/cluster-image/issues/511#issuecomment-1691638614) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. ❌ Closed PR [#32](https://github.com/labring-actions/sync-aliyun/pull/32) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+2. 🗣 Commented on [#630](https://github.com/cuisongliu/sealos/pull/630#issuecomment-1692017915) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+3. 🗣 Commented on [#512](https://github.com/labring-actions/cluster-image/issues/512#issuecomment-1691781218) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🗣 Commented on [#512](https://github.com/labring-actions/cluster-image/issues/512#issuecomment-1691763132) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. ❗ Opened issue [#512](https://github.com/labring-actions/cluster-image/issues/512) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
 ---
