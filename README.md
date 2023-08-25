@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32](https://github.com/labring-actions/sync-aliyun/pull/32) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-2. 🗣 Commented on [#630](https://github.com/cuisongliu/sealos/pull/630#issuecomment-1692017915) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-3. 🗣 Commented on [#512](https://github.com/labring-actions/cluster-image/issues/512#issuecomment-1691781218) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🗣 Commented on [#512](https://github.com/labring-actions/cluster-image/issues/512#issuecomment-1691763132) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. ❗ Opened issue [#512](https://github.com/labring-actions/cluster-image/issues/512) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. ❗ Opened issue [#13](https://github.com/revezone/revezone/issues/13) in [revezone/revezone](https://github.com/revezone/revezone)
+2. 🎉 Merged PR [#34](https://github.com/labring-actions/sync-aliyun/pull/34) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+3. ❌ Closed PR [#33](https://github.com/labring-actions/sync-aliyun/pull/33) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+4. ❌ Closed PR [#32](https://github.com/labring-actions/sync-aliyun/pull/32) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+5. 🗣 Commented on [#630](https://github.com/cuisongliu/sealos/pull/630#issuecomment-1692017915) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
 <!--END_SECTION:activity-->
 
 ---
