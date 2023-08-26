@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#515](https://github.com/labring-actions/cluster-image/issues/515) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🔒 Reopened issue [#514](https://github.com/labring-actions/cluster-image/issues/514) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. 🔒 Reopened issue [#513](https://github.com/labring-actions/cluster-image/issues/513) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🔒 Reopened issue [#428](https://github.com/labring-actions/cluster-image/issues/428) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🔒 Closed issue [#22](https://github.com/labring-actions/cluster-image/issues/22) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. 🎉 Merged PR [#8](https://github.com/labring/robot/pull/8) in [labring/robot](https://github.com/labring/robot)
+2. 💪 Opened PR [#8](https://github.com/labring/robot/pull/8) in [labring/robot](https://github.com/labring/robot)
+3. 🎉 Merged PR [#7](https://github.com/labring/robot/pull/7) in [labring/robot](https://github.com/labring/robot)
+4. 💪 Opened PR [#7](https://github.com/labring/robot/pull/7) in [labring/robot](https://github.com/labring/robot)
+5. 🎉 Merged PR [#5](https://github.com/labring/robot/pull/5) in [labring/robot](https://github.com/labring/robot)
 <!--END_SECTION:activity-->
 
 ---
