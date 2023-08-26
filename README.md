@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/labring/robot/pull/8) in [labring/robot](https://github.com/labring/robot)
-2. 💪 Opened PR [#8](https://github.com/labring/robot/pull/8) in [labring/robot](https://github.com/labring/robot)
-3. 🎉 Merged PR [#7](https://github.com/labring/robot/pull/7) in [labring/robot](https://github.com/labring/robot)
-4. 💪 Opened PR [#7](https://github.com/labring/robot/pull/7) in [labring/robot](https://github.com/labring/robot)
-5. 🎉 Merged PR [#5](https://github.com/labring/robot/pull/5) in [labring/robot](https://github.com/labring/robot)
+1. 🗣 Commented on [#631](https://github.com/cuisongliu/sealos/pull/631#issuecomment-1694451629) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+2. 🎉 Merged PR [#10](https://github.com/labring/robot/pull/10) in [labring/robot](https://github.com/labring/robot)
+3. 💪 Opened PR [#10](https://github.com/labring/robot/pull/10) in [labring/robot](https://github.com/labring/robot)
+4. 🎉 Merged PR [#9](https://github.com/labring/robot/pull/9) in [labring/robot](https://github.com/labring/robot)
+5. 💪 Opened PR [#9](https://github.com/labring/robot/pull/9) in [labring/robot](https://github.com/labring/robot)
 <!--END_SECTION:activity-->
 
 ---
