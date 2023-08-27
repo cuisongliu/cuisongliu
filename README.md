@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/labring/sealpkg/issues/6) in [labring/sealpkg](https://github.com/labring/sealpkg)
-2. 🗣 Commented on [#6](https://github.com/labring/sealpkg/issues/6#issuecomment-1694563399) in [labring/sealpkg](https://github.com/labring/sealpkg)
-3. 💪 Opened PR [#3769](https://github.com/labring/sealos/pull/3769) in [labring/sealos](https://github.com/labring/sealos)
-4. 🗣 Commented on [#8](https://github.com/labring/sealpkg/issues/8#issuecomment-1694562171) in [labring/sealpkg](https://github.com/labring/sealpkg)
-5. 🎉 Merged PR [#19](https://github.com/labring/sealpkg/pull/19) in [labring/sealpkg](https://github.com/labring/sealpkg)
+1. 🎉 Merged PR [#1](https://github.com/labring-actions/sync-aliyun-hangzhou/pull/1) in [labring-actions/sync-aliyun-hangzhou](https://github.com/labring-actions/sync-aliyun-hangzhou)
+2. 🔒 Closed issue [#6](https://github.com/labring/sealpkg/issues/6) in [labring/sealpkg](https://github.com/labring/sealpkg)
+3. 🗣 Commented on [#6](https://github.com/labring/sealpkg/issues/6#issuecomment-1694563399) in [labring/sealpkg](https://github.com/labring/sealpkg)
+4. 💪 Opened PR [#3769](https://github.com/labring/sealos/pull/3769) in [labring/sealos](https://github.com/labring/sealos)
+5. 🗣 Commented on [#8](https://github.com/labring/sealpkg/issues/8#issuecomment-1694562171) in [labring/sealpkg](https://github.com/labring/sealpkg)
 <!--END_SECTION:activity-->
 
 ---
