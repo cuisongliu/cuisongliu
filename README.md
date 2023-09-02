@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#532](https://github.com/labring-actions/cluster-image/issues/532#issuecomment-1703673870) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🗣 Commented on [#532](https://github.com/labring-actions/cluster-image/issues/532#issuecomment-1703673626) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. 🗣 Commented on [#532](https://github.com/labring-actions/cluster-image/issues/532#issuecomment-1703673495) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🗣 Commented on [#532](https://github.com/labring-actions/cluster-image/issues/532#issuecomment-1703673314) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🗣 Commented on [#532](https://github.com/labring-actions/cluster-image/issues/532#issuecomment-1703673180) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. 🔒 Closed issue [#3807](https://github.com/labring/sealos/issues/3807) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#3807](https://github.com/labring/sealos/issues/3807#issuecomment-1703699966) in [labring/sealos](https://github.com/labring/sealos)
+3. 🗣 Commented on [#532](https://github.com/labring-actions/cluster-image/issues/532#issuecomment-1703673870) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🗣 Commented on [#532](https://github.com/labring-actions/cluster-image/issues/532#issuecomment-1703673626) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. 🗣 Commented on [#532](https://github.com/labring-actions/cluster-image/issues/532#issuecomment-1703673495) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
 ---
