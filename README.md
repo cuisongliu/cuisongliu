@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#639](https://github.com/cuisongliu/sealos/pull/639#issuecomment-1707251979) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🎉 Merged PR [#16](https://github.com/labring/kubebuilder4helm/pull/16) in [labring/kubebuilder4helm](https://github.com/labring/kubebuilder4helm)
-3. 💪 Opened PR [#16](https://github.com/labring/kubebuilder4helm/pull/16) in [labring/kubebuilder4helm](https://github.com/labring/kubebuilder4helm)
-4. 🎉 Merged PR [#14](https://github.com/labring-actions/cluster-image-docs/pull/14) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-5. 🎉 Merged PR [#3845](https://github.com/labring/sealos/pull/3845) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#3849](https://github.com/labring/sealos/pull/3849) in [labring/sealos](https://github.com/labring/sealos)
+2. 🎉 Merged PR [#3847](https://github.com/labring/sealos/pull/3847) in [labring/sealos](https://github.com/labring/sealos)
+3. 💪 Opened PR [#261](https://github.com/labring/FastGPT/pull/261) in [labring/FastGPT](https://github.com/labring/FastGPT)
+4. 🗣 Commented on [#639](https://github.com/cuisongliu/sealos/pull/639#issuecomment-1707251979) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+5. 🎉 Merged PR [#16](https://github.com/labring/kubebuilder4helm/pull/16) in [labring/kubebuilder4helm](https://github.com/labring/kubebuilder4helm)
 <!--END_SECTION:activity-->
 
 ---
