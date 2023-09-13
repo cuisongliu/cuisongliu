@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#643](https://github.com/cuisongliu/sealos/pull/643#issuecomment-1717183419) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🗣 Commented on [#9](https://github.com/labring-actions/runtime/issues/9#issuecomment-1716953838) in [labring-actions/runtime](https://github.com/labring-actions/runtime)
-3. 🗣 Commented on [#9](https://github.com/labring-actions/runtime/issues/9#issuecomment-1716948426) in [labring-actions/runtime](https://github.com/labring-actions/runtime)
-4. 🗣 Commented on [#9](https://github.com/labring-actions/runtime/issues/9#issuecomment-1716945197) in [labring-actions/runtime](https://github.com/labring-actions/runtime)
-5. 🗣 Commented on [#3907](https://github.com/labring/sealos/issues/3907#issuecomment-1716900487) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#21](https://github.com/labring-actions/cluster-image-docs/pull/21) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🗣 Commented on [#643](https://github.com/cuisongliu/sealos/pull/643#issuecomment-1717183419) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+3. 🗣 Commented on [#9](https://github.com/labring-actions/runtime/issues/9#issuecomment-1716953838) in [labring-actions/runtime](https://github.com/labring-actions/runtime)
+4. 🗣 Commented on [#9](https://github.com/labring-actions/runtime/issues/9#issuecomment-1716948426) in [labring-actions/runtime](https://github.com/labring-actions/runtime)
+5. 🗣 Commented on [#9](https://github.com/labring-actions/runtime/issues/9#issuecomment-1716945197) in [labring-actions/runtime](https://github.com/labring-actions/runtime)
 <!--END_SECTION:activity-->
 
 ---
