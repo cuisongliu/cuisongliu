@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/labring-actions/runtime/issues/9#issuecomment-1722689248) in [labring-actions/runtime](https://github.com/labring-actions/runtime)
-2. 🗣 Commented on [#9](https://github.com/labring-actions/runtime/issues/9#issuecomment-1722656377) in [labring-actions/runtime](https://github.com/labring-actions/runtime)
-3. 🗣 Commented on [#9](https://github.com/labring-actions/runtime/issues/9#issuecomment-1722632150) in [labring-actions/runtime](https://github.com/labring-actions/runtime)
-4. 🎉 Merged PR [#3947](https://github.com/labring/sealos/pull/3947) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#3946](https://github.com/labring/sealos/pull/3946) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#3951](https://github.com/labring/sealos/pull/3951) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#9](https://github.com/labring-actions/runtime/issues/9#issuecomment-1722689248) in [labring-actions/runtime](https://github.com/labring-actions/runtime)
+3. 🗣 Commented on [#9](https://github.com/labring-actions/runtime/issues/9#issuecomment-1722656377) in [labring-actions/runtime](https://github.com/labring-actions/runtime)
+4. 🗣 Commented on [#9](https://github.com/labring-actions/runtime/issues/9#issuecomment-1722632150) in [labring-actions/runtime](https://github.com/labring-actions/runtime)
+5. 🎉 Merged PR [#3947](https://github.com/labring/sealos/pull/3947) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
