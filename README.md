@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1731840599) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-2. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1731767962) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-3. ❗ Opened issue [#132](https://github.com/labring/endpoints-operator/issues/132) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-4. 🎉 Merged PR [#26](https://github.com/labring-actions/cluster-image-docs/pull/26) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-5. 🎉 Merged PR [#47](https://github.com/labring-actions/sync-aliyun/pull/47) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+1. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1731863517) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+2. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1731840599) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+3. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1731767962) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+4. ❗ Opened issue [#132](https://github.com/labring/endpoints-operator/issues/132) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+5. 🎉 Merged PR [#26](https://github.com/labring-actions/cluster-image-docs/pull/26) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
 <!--END_SECTION:activity-->
 
 ---
