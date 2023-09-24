@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1732498080) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-2. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1732365529) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-3. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1732332514) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-4. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1732332375) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-5. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1732332310) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+1. 🎉 Merged PR [#3903](https://github.com/labring/sealos/pull/3903) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1732498080) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+3. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1732365529) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+4. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1732332514) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+5. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1732332375) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
 <!--END_SECTION:activity-->
 
 ---
