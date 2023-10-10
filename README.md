@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/labring/sreg/pull/3) in [labring/sreg](https://github.com/labring/sreg)
-2. 💪 Opened PR [#3](https://github.com/labring/sreg/pull/3) in [labring/sreg](https://github.com/labring/sreg)
-3. 🔒 Closed issue [#600](https://github.com/labring-actions/cluster-image/issues/600) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🗣 Commented on [#600](https://github.com/labring-actions/cluster-image/issues/600#issuecomment-1753384066) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🗣 Commented on [#600](https://github.com/labring-actions/cluster-image/issues/600#issuecomment-1753377636) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. 🎉 Merged PR [#4057](https://github.com/labring/sealos/pull/4057) in [labring/sealos](https://github.com/labring/sealos)
+2. 🎉 Merged PR [#3](https://github.com/labring/sreg/pull/3) in [labring/sreg](https://github.com/labring/sreg)
+3. 💪 Opened PR [#3](https://github.com/labring/sreg/pull/3) in [labring/sreg](https://github.com/labring/sreg)
+4. 🔒 Closed issue [#600](https://github.com/labring-actions/cluster-image/issues/600) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. 🗣 Commented on [#600](https://github.com/labring-actions/cluster-image/issues/600#issuecomment-1753384066) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
 ---
