@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4058](https://github.com/labring/sealos/issues/4058) in [labring/sealos](https://github.com/labring/sealos)
-2. 🎉 Merged PR [#4060](https://github.com/labring/sealos/pull/4060) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#4061](https://github.com/labring/sealos/pull/4061) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#11](https://github.com/cuisongliu/sync-aliyun-beijing-larbing/pull/11) in [cuisongliu/sync-aliyun-beijing-larbing](https://github.com/cuisongliu/sync-aliyun-beijing-larbing)
-5. 🎉 Merged PR [#4057](https://github.com/labring/sealos/pull/4057) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#31](https://github.com/labring-actions/cluster-image-docs/pull/31) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🎉 Merged PR [#49](https://github.com/labring-actions/sync-aliyun/pull/49) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+3. 🎉 Merged PR [#11](https://github.com/cuisongliu/sync-aliyun-beijing-larbing/pull/11) in [cuisongliu/sync-aliyun-beijing-larbing](https://github.com/cuisongliu/sync-aliyun-beijing-larbing)
+4. 🎉 Merged PR [#4063](https://github.com/labring/sealos/pull/4063) in [labring/sealos](https://github.com/labring/sealos)
+5. 🗣 Commented on [#363](https://github.com/labring-actions/cluster-image/issues/363#issuecomment-1755389425) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
 ---
