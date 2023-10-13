@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#603](https://github.com/labring-actions/cluster-image/issues/603#issuecomment-1760729360) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🗣 Commented on [#603](https://github.com/labring-actions/cluster-image/issues/603#issuecomment-1760729237) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. 🗣 Commented on [#603](https://github.com/labring-actions/cluster-image/issues/603#issuecomment-1760729063) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🗣 Commented on [#623](https://github.com/labring-actions/cluster-image/issues/623#issuecomment-1760721130) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🗣 Commented on [#623](https://github.com/labring-actions/cluster-image/issues/623#issuecomment-1760712857) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. 🗣 Commented on [#623](https://github.com/labring-actions/cluster-image/issues/623#issuecomment-1760951169) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#623](https://github.com/labring-actions/cluster-image/issues/623#issuecomment-1760941858) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. ❗ Opened issue [#1067](https://github.com/banzaicloud/koperator/issues/1067) in [banzaicloud/koperator](https://github.com/banzaicloud/koperator)
+4. 🗣 Commented on [#623](https://github.com/labring-actions/cluster-image/issues/623#issuecomment-1760858168) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. 🗣 Commented on [#603](https://github.com/labring-actions/cluster-image/issues/603#issuecomment-1760729360) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
 ---
