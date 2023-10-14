@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/banzaicloud/docker-cruise-control/pull/31) in [banzaicloud/docker-cruise-control](https://github.com/banzaicloud/docker-cruise-control)
-2. 🎉 Merged PR [#4093](https://github.com/labring/sealos/pull/4093) in [labring/sealos](https://github.com/labring/sealos)
-3. 💪 Opened PR [#33](https://github.com/banzaicloud/docker-kafka/pull/33) in [banzaicloud/docker-kafka](https://github.com/banzaicloud/docker-kafka)
-4. 💪 Opened PR [#6](https://github.com/banzaicloud/docker-kafka-connect/pull/6) in [banzaicloud/docker-kafka-connect](https://github.com/banzaicloud/docker-kafka-connect)
-5. 💪 Opened PR [#4](https://github.com/banzaicloud/docker-jmx-exporter/pull/4) in [banzaicloud/docker-jmx-exporter](https://github.com/banzaicloud/docker-jmx-exporter)
+1. 🗣 Commented on [#4050](https://github.com/labring/sealos/issues/4050#issuecomment-1763055252) in [labring/sealos](https://github.com/labring/sealos)
+2. 💪 Opened PR [#31](https://github.com/banzaicloud/docker-cruise-control/pull/31) in [banzaicloud/docker-cruise-control](https://github.com/banzaicloud/docker-cruise-control)
+3. 🎉 Merged PR [#4093](https://github.com/labring/sealos/pull/4093) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#33](https://github.com/banzaicloud/docker-kafka/pull/33) in [banzaicloud/docker-kafka](https://github.com/banzaicloud/docker-kafka)
+5. 💪 Opened PR [#6](https://github.com/banzaicloud/docker-kafka-connect/pull/6) in [banzaicloud/docker-kafka-connect](https://github.com/banzaicloud/docker-kafka-connect)
 <!--END_SECTION:activity-->
 
 ---
