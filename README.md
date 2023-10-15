@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#658](https://github.com/cuisongliu/sealos/pull/658#issuecomment-1763161801) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🗣 Commented on [#4050](https://github.com/labring/sealos/issues/4050#issuecomment-1763055252) in [labring/sealos](https://github.com/labring/sealos)
-3. 💪 Opened PR [#31](https://github.com/banzaicloud/docker-cruise-control/pull/31) in [banzaicloud/docker-cruise-control](https://github.com/banzaicloud/docker-cruise-control)
-4. 🎉 Merged PR [#4093](https://github.com/labring/sealos/pull/4093) in [labring/sealos](https://github.com/labring/sealos)
-5. 💪 Opened PR [#33](https://github.com/banzaicloud/docker-kafka/pull/33) in [banzaicloud/docker-kafka](https://github.com/banzaicloud/docker-kafka)
+1. 🎉 Merged PR [#36](https://github.com/labring-actions/cluster-image-docs/pull/36) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🗣 Commented on [#658](https://github.com/cuisongliu/sealos/pull/658#issuecomment-1763161801) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+3. 🗣 Commented on [#4050](https://github.com/labring/sealos/issues/4050#issuecomment-1763055252) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#31](https://github.com/banzaicloud/docker-cruise-control/pull/31) in [banzaicloud/docker-cruise-control](https://github.com/banzaicloud/docker-cruise-control)
+5. 🎉 Merged PR [#4093](https://github.com/labring/sealos/pull/4093) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
