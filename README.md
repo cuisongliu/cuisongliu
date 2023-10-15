@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#625](https://github.com/labring-actions/cluster-image/pull/625) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🎉 Merged PR [#36](https://github.com/labring-actions/cluster-image-docs/pull/36) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-3. 🗣 Commented on [#658](https://github.com/cuisongliu/sealos/pull/658#issuecomment-1763161801) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-4. 🗣 Commented on [#4050](https://github.com/labring/sealos/issues/4050#issuecomment-1763055252) in [labring/sealos](https://github.com/labring/sealos)
-5. 💪 Opened PR [#31](https://github.com/banzaicloud/docker-cruise-control/pull/31) in [banzaicloud/docker-cruise-control](https://github.com/banzaicloud/docker-cruise-control)
+1. ❗ Opened issue [#1068](https://github.com/banzaicloud/koperator/issues/1068) in [banzaicloud/koperator](https://github.com/banzaicloud/koperator)
+2. 🎉 Merged PR [#625](https://github.com/labring-actions/cluster-image/pull/625) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🎉 Merged PR [#36](https://github.com/labring-actions/cluster-image-docs/pull/36) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+4. 🗣 Commented on [#658](https://github.com/cuisongliu/sealos/pull/658#issuecomment-1763161801) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+5. 🗣 Commented on [#4050](https://github.com/labring/sealos/issues/4050#issuecomment-1763055252) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
