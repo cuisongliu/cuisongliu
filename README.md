@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4134](https://github.com/labring/sealos/issues/4134) in [labring/sealos](https://github.com/labring/sealos)
-2. 🎉 Merged PR [#4133](https://github.com/labring/sealos/pull/4133) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#4132](https://github.com/labring/sealos/pull/4132) in [labring/sealos](https://github.com/labring/sealos)
-4. 🗣 Commented on [#3439](https://github.com/labring/sealos/issues/3439#issuecomment-1772818676) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#41](https://github.com/labring-actions/cluster-image/issues/41#issuecomment-1772439358) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. 🎉 Merged PR [#42](https://github.com/labring-actions/cluster-image-docs/pull/42) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🔒 Closed issue [#4134](https://github.com/labring/sealos/issues/4134) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#4133](https://github.com/labring/sealos/pull/4133) in [labring/sealos](https://github.com/labring/sealos)
+4. 🎉 Merged PR [#4132](https://github.com/labring/sealos/pull/4132) in [labring/sealos](https://github.com/labring/sealos)
+5. 🗣 Commented on [#3439](https://github.com/labring/sealos/issues/3439#issuecomment-1772818676) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
