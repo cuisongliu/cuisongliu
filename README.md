@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4228](https://github.com/labring/sealos/issues/4228) in [labring/sealos](https://github.com/labring/sealos)
-2. 🎉 Merged PR [#660](https://github.com/cuisongliu/sealos/pull/660) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-3. 🗣 Commented on [#2498](https://github.com/containers/youki/pull/2498#issuecomment-1789132465) in [containers/youki](https://github.com/containers/youki)
-4. 💪 Opened PR [#2498](https://github.com/containers/youki/pull/2498) in [containers/youki](https://github.com/containers/youki)
-5. 🎉 Merged PR [#37](https://github.com/cuisongliu/youki/pull/37) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
+1. 🚀 Published release [v5.0.0-alpha5](https://github.com/cuisongliu/sealos/releases/tag/v5.0.0-alpha5) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+2. ❗ Opened issue [#4228](https://github.com/labring/sealos/issues/4228) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#660](https://github.com/cuisongliu/sealos/pull/660) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+4. 🗣 Commented on [#2498](https://github.com/containers/youki/pull/2498#issuecomment-1789132465) in [containers/youki](https://github.com/containers/youki)
+5. 💪 Opened PR [#2498](https://github.com/containers/youki/pull/2498) in [containers/youki](https://github.com/containers/youki)
 <!--END_SECTION:activity-->
 
 ---
