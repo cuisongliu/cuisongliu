@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4245](https://github.com/labring/sealos/issues/4245#issuecomment-1792009572) in [labring/sealos](https://github.com/labring/sealos)
-2. 🔒 Closed issue [#4245](https://github.com/labring/sealos/issues/4245) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#2501](https://github.com/containers/youki/issues/2501#issuecomment-1792003138) in [containers/youki](https://github.com/containers/youki)
-4. 🗣 Commented on [#2498](https://github.com/containers/youki/pull/2498#issuecomment-1791983606) in [containers/youki](https://github.com/containers/youki)
-5. 🎉 Merged PR [#4239](https://github.com/labring/sealos/pull/4239) in [labring/sealos](https://github.com/labring/sealos)
+1. 🗣 Commented on [#2498](https://github.com/containers/youki/pull/2498#issuecomment-1792031799) in [containers/youki](https://github.com/containers/youki)
+2. 🗣 Commented on [#4245](https://github.com/labring/sealos/issues/4245#issuecomment-1792009572) in [labring/sealos](https://github.com/labring/sealos)
+3. 🔒 Closed issue [#4245](https://github.com/labring/sealos/issues/4245) in [labring/sealos](https://github.com/labring/sealos)
+4. 🗣 Commented on [#2501](https://github.com/containers/youki/issues/2501#issuecomment-1792003138) in [containers/youki](https://github.com/containers/youki)
+5. 🗣 Commented on [#2498](https://github.com/containers/youki/pull/2498#issuecomment-1791983606) in [containers/youki](https://github.com/containers/youki)
 <!--END_SECTION:activity-->
 
 ---
