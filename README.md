@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#114](https://github.com/labring-actions/templates/pull/114) in [labring-actions/templates](https://github.com/labring-actions/templates)
-2. 🗣 Commented on [#664](https://github.com/cuisongliu/sealos/pull/664#issuecomment-1792122317) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-3. 💪 Opened PR [#664](https://github.com/cuisongliu/sealos/pull/664) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-4. 🚀 Published release [v5.0.0-alpha8](https://github.com/cuisongliu/sealos/releases/tag/v5.0.0-alpha8) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-5. 🗣 Commented on [#2498](https://github.com/containers/youki/pull/2498#issuecomment-1792031799) in [containers/youki](https://github.com/containers/youki)
+1. ❌ Closed PR [#664](https://github.com/cuisongliu/sealos/pull/664) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+2. 🎉 Merged PR [#51](https://github.com/labring-actions/cluster-image-docs/pull/51) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+3. 🎉 Merged PR [#115](https://github.com/labring-actions/templates/pull/115) in [labring-actions/templates](https://github.com/labring-actions/templates)
+4. 💪 Opened PR [#115](https://github.com/labring-actions/templates/pull/115) in [labring-actions/templates](https://github.com/labring-actions/templates)
+5. 🎉 Merged PR [#114](https://github.com/labring-actions/templates/pull/114) in [labring-actions/templates](https://github.com/labring-actions/templates)
 <!--END_SECTION:activity-->
 
 ---
