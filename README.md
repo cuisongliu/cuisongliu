@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/labring-actions/cluster-image-docs/pull/54) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-2. 💪 Opened PR [#2503](https://github.com/containers/youki/pull/2503) in [containers/youki](https://github.com/containers/youki)
-3. 🎉 Merged PR [#53](https://github.com/labring-actions/cluster-image-docs/pull/53) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-4. 🎉 Merged PR [#55](https://github.com/labring-actions/sync-aliyun/pull/55) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-5. 🎉 Merged PR [#17](https://github.com/cuisongliu/sync-aliyun-beijing-larbing/pull/17) in [cuisongliu/sync-aliyun-beijing-larbing](https://github.com/cuisongliu/sync-aliyun-beijing-larbing)
+1. 🔒 Closed issue [#4233](https://github.com/labring/sealos/issues/4233) in [labring/sealos](https://github.com/labring/sealos)
+2. 🎉 Merged PR [#4258](https://github.com/labring/sealos/pull/4258) in [labring/sealos](https://github.com/labring/sealos)
+3. 🗣 Commented on [#2498](https://github.com/containers/youki/pull/2498#issuecomment-1794624557) in [containers/youki](https://github.com/containers/youki)
+4. 💪 Opened PR [#2510](https://github.com/containers/youki/pull/2510) in [containers/youki](https://github.com/containers/youki)
+5. 🎉 Merged PR [#54](https://github.com/labring-actions/cluster-image-docs/pull/54) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
 <!--END_SECTION:activity-->
 
 ---
