@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/labring-actions/sync-aliyun/pull/57) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-2. ❗ Opened issue [#391](https://github.com/containerd/runwasi/issues/391) in [containerd/runwasi](https://github.com/containerd/runwasi)
-3. 🗣 Commented on [#167](https://github.com/containerd/runwasi/issues/167#issuecomment-1807069763) in [containerd/runwasi](https://github.com/containerd/runwasi)
-4. 🎉 Merged PR [#19](https://github.com/cuisongliu/sync-aliyun-beijing-larbing/pull/19) in [cuisongliu/sync-aliyun-beijing-larbing](https://github.com/cuisongliu/sync-aliyun-beijing-larbing)
-5. 🎉 Merged PR [#61](https://github.com/labring-actions/cluster-image-docs/pull/61) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. 🗣 Commented on [#693](https://github.com/labring-actions/cluster-image/issues/693#issuecomment-1807092235) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#391](https://github.com/containerd/runwasi/issues/391#issuecomment-1807081720) in [containerd/runwasi](https://github.com/containerd/runwasi)
+3. 🎉 Merged PR [#57](https://github.com/labring-actions/sync-aliyun/pull/57) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+4. ❗ Opened issue [#391](https://github.com/containerd/runwasi/issues/391) in [containerd/runwasi](https://github.com/containerd/runwasi)
+5. 🗣 Commented on [#167](https://github.com/containerd/runwasi/issues/167#issuecomment-1807069763) in [containerd/runwasi](https://github.com/containerd/runwasi)
 <!--END_SECTION:activity-->
 
 ---
