@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1807398811) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-2. 🗣 Commented on [#693](https://github.com/labring-actions/cluster-image/issues/693#issuecomment-1807106181) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. 🗣 Commented on [#693](https://github.com/labring-actions/cluster-image/issues/693#issuecomment-1807106153) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🗣 Commented on [#693](https://github.com/labring-actions/cluster-image/issues/693#issuecomment-1807106125) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🗣 Commented on [#693](https://github.com/labring-actions/cluster-image/issues/693#issuecomment-1807106091) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. 🗣 Commented on [#696](https://github.com/labring-actions/cluster-image/issues/696#issuecomment-1807479138) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#696](https://github.com/labring-actions/cluster-image/issues/696#issuecomment-1807477706) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🗣 Commented on [#694](https://github.com/labring-actions/cluster-image/issues/694#issuecomment-1807477274) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. ❗ Opened issue [#696](https://github.com/labring-actions/cluster-image/issues/696) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. 🗣 Commented on [#132](https://github.com/labring/endpoints-operator/issues/132#issuecomment-1807398811) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
 <!--END_SECTION:activity-->
 
 ---
