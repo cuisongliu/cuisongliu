@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#136](https://github.com/labring/endpoints-operator/pull/136) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-2. 💪 Opened PR [#136](https://github.com/labring/endpoints-operator/pull/136) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-3. 🗣 Commented on [#694](https://github.com/labring-actions/cluster-image/issues/694#issuecomment-1807762286) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🔒 Closed issue [#694](https://github.com/labring-actions/cluster-image/issues/694) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🔒 Closed issue [#693](https://github.com/labring-actions/cluster-image/issues/693) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. 🔒 Closed issue [#696](https://github.com/labring-actions/cluster-image/issues/696) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#2510](https://github.com/containers/youki/pull/2510#issuecomment-1808198891) in [containers/youki](https://github.com/containers/youki)
+3. 🗣 Commented on [#2510](https://github.com/containers/youki/pull/2510#issuecomment-1808196413) in [containers/youki](https://github.com/containers/youki)
+4. ❌ Closed PR [#41](https://github.com/cuisongliu/youki/pull/41) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
+5. 🎉 Merged PR [#136](https://github.com/labring/endpoints-operator/pull/136) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
 <!--END_SECTION:activity-->
 
 ---
