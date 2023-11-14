@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2510](https://github.com/containers/youki/pull/2510#issuecomment-1810410029) in [containers/youki](https://github.com/containers/youki)
-2. 💪 Opened PR [#21](https://github.com/cuisongliu/sync-aliyun-beijing-larbing/pull/21) in [cuisongliu/sync-aliyun-beijing-larbing](https://github.com/cuisongliu/sync-aliyun-beijing-larbing)
-3. 🔒 Closed issue [#119](https://github.com/labring/endpoints-operator/issues/119) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-4. 🎉 Merged PR [#141](https://github.com/labring/endpoints-operator/pull/141) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-5. 💪 Opened PR [#141](https://github.com/labring/endpoints-operator/pull/141) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+1. 🎉 Merged PR [#63](https://github.com/labring-actions/cluster-image-docs/pull/63) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🎉 Merged PR [#59](https://github.com/labring-actions/sync-aliyun/pull/59) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+3. 🎉 Merged PR [#21](https://github.com/cuisongliu/sync-aliyun-beijing-larbing/pull/21) in [cuisongliu/sync-aliyun-beijing-larbing](https://github.com/cuisongliu/sync-aliyun-beijing-larbing)
+4. 🗣 Commented on [#2510](https://github.com/containers/youki/pull/2510#issuecomment-1810410029) in [containers/youki](https://github.com/containers/youki)
+5. 💪 Opened PR [#21](https://github.com/cuisongliu/sync-aliyun-beijing-larbing/pull/21) in [cuisongliu/sync-aliyun-beijing-larbing](https://github.com/cuisongliu/sync-aliyun-beijing-larbing)
 <!--END_SECTION:activity-->
 
 ---
