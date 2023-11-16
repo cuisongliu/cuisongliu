@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4173](https://github.com/labring/sealos/issues/4173#issuecomment-1813624628) in [labring/sealos](https://github.com/labring/sealos)
-2. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1812931062) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
-3. ❗ Opened issue [#2](https://github.com/labring-actions/wasi-image/issues/2) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
-4. 🗣 Commented on [#1](https://github.com/labring-actions/wasi-image/issues/1#issuecomment-1812916444) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
-5. 🗣 Commented on [#1](https://github.com/labring-actions/wasi-image/issues/1#issuecomment-1812901592) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
+1. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1813768781) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
+2. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1813764587) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
+3. 🗣 Commented on [#4173](https://github.com/labring/sealos/issues/4173#issuecomment-1813624628) in [labring/sealos](https://github.com/labring/sealos)
+4. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1812931062) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
+5. ❗ Opened issue [#2](https://github.com/labring-actions/wasi-image/issues/2) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
 <!--END_SECTION:activity-->
 
 ---
