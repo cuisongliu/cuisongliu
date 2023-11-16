@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1814492990) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
-2. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1814477698) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
-3. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1814473794) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
-4. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1814450408) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
-5. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1814447606) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
+1. 🗣 Commented on [#703](https://github.com/labring-actions/cluster-image/issues/703#issuecomment-1814625431) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#703](https://github.com/labring-actions/cluster-image/issues/703#issuecomment-1814549722) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. ❗ Opened issue [#703](https://github.com/labring-actions/cluster-image/issues/703) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1814492990) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
+5. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1814477698) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
 <!--END_SECTION:activity-->
 
 ---
