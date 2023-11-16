@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1813846989) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
-2. 🔒 Closed issue [#1](https://github.com/labring-actions/wasi-image/issues/1) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
-3. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1813800782) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
-4. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1813768781) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
-5. 🗣 Commented on [#2](https://github.com/labring-actions/wasi-image/issues/2#issuecomment-1813764587) in [labring-actions/wasi-image](https://github.com/labring-actions/wasi-image)
+1. 🗣 Commented on [#71](https://github.com/labring-actions/cluster-image/issues/71#issuecomment-1813948312) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#127](https://github.com/labring/endpoints-operator/issues/127#issuecomment-1813943740) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+3. 🗣 Commented on [#115](https://github.com/labring/endpoints-operator/issues/115#issuecomment-1813943122) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+4. 🔒 Closed issue [#115](https://github.com/labring/endpoints-operator/issues/115) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+5. 🎉 Merged PR [#4305](https://github.com/labring/sealos/pull/4305) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
