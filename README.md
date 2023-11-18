@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#42](https://github.com/cuisongliu/youki/pull/42) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
-2. 🎉 Merged PR [#66](https://github.com/labring-actions/cluster-image-docs/pull/66) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-3. 🎉 Merged PR [#60](https://github.com/labring-actions/sync-aliyun/pull/60) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-4. 🎉 Merged PR [#22](https://github.com/cuisongliu/sync-aliyun-beijing-larbing/pull/22) in [cuisongliu/sync-aliyun-beijing-larbing](https://github.com/cuisongliu/sync-aliyun-beijing-larbing)
-5. 💪 Opened PR [#22](https://github.com/cuisongliu/sync-aliyun-beijing-larbing/pull/22) in [cuisongliu/sync-aliyun-beijing-larbing](https://github.com/cuisongliu/sync-aliyun-beijing-larbing)
+1. 💪 Opened PR [#2537](https://github.com/containers/youki/pull/2537) in [containers/youki](https://github.com/containers/youki)
+2. 🎉 Merged PR [#44](https://github.com/cuisongliu/youki/pull/44) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
+3. ❌ Closed PR [#42](https://github.com/cuisongliu/youki/pull/42) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
+4. 🎉 Merged PR [#66](https://github.com/labring-actions/cluster-image-docs/pull/66) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+5. 🎉 Merged PR [#60](https://github.com/labring-actions/sync-aliyun/pull/60) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
 <!--END_SECTION:activity-->
 
 ---
