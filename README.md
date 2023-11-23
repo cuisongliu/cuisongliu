@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#47](https://github.com/cuisongliu/youki/pull/47) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
-2. ❌ Closed PR [#46](https://github.com/cuisongliu/youki/pull/46) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
-3. 🗣 Commented on [#2510](https://github.com/containers/youki/pull/2510#issuecomment-1823707893) in [containers/youki](https://github.com/containers/youki)
-4. 🗣 Commented on [#2541](https://github.com/containers/youki/pull/2541#issuecomment-1823700345) in [containers/youki](https://github.com/containers/youki)
-5. 🎉 Merged PR [#69](https://github.com/labring-actions/cluster-image-docs/pull/69) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. 🎉 Merged PR [#70](https://github.com/labring-actions/cluster-image-docs/pull/70) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. ❌ Closed PR [#47](https://github.com/cuisongliu/youki/pull/47) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
+3. ❌ Closed PR [#46](https://github.com/cuisongliu/youki/pull/46) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
+4. 🗣 Commented on [#2510](https://github.com/containers/youki/pull/2510#issuecomment-1823707893) in [containers/youki](https://github.com/containers/youki)
+5. 🗣 Commented on [#2541](https://github.com/containers/youki/pull/2541#issuecomment-1823700345) in [containers/youki](https://github.com/containers/youki)
 <!--END_SECTION:activity-->
 
 ---
