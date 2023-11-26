@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#48](https://github.com/cuisongliu/youki/pull/48) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
-2. ❗ Opened issue [#5924](https://github.com/apecloud/kubeblocks/issues/5924) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
-3. 🗣 Commented on [#2537](https://github.com/containers/youki/pull/2537#issuecomment-1826586536) in [containers/youki](https://github.com/containers/youki)
-4. 🗣 Commented on [#663](https://github.com/labring-actions/cluster-image/issues/663#issuecomment-1826358286) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🎉 Merged PR [#72](https://github.com/labring-actions/cluster-image-docs/pull/72) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. 🎉 Merged PR [#73](https://github.com/labring-actions/cluster-image-docs/pull/73) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. ❌ Closed PR [#56](https://github.com/cuisongliu/youki/pull/56) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
+3. 🎉 Merged PR [#55](https://github.com/cuisongliu/youki/pull/55) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
+4. ❌ Closed PR [#54](https://github.com/cuisongliu/youki/pull/54) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
+5. ❌ Closed PR [#53](https://github.com/cuisongliu/youki/pull/53) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
 <!--END_SECTION:activity-->
 
 ---
