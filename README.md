@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#736](https://github.com/labring-actions/cluster-image/issues/736#issuecomment-1832012145) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🗣 Commented on [#736](https://github.com/labring-actions/cluster-image/issues/736#issuecomment-1832007845) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. 🗣 Commented on [#736](https://github.com/labring-actions/cluster-image/issues/736#issuecomment-1831997396) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🎉 Merged PR [#737](https://github.com/labring-actions/cluster-image/pull/737) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🗣 Commented on [#736](https://github.com/labring-actions/cluster-image/issues/736#issuecomment-1831990050) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. 💪 Opened PR [#27](https://github.com/cuisongliu/sync-aliyun-beijing-larbing/pull/27) in [cuisongliu/sync-aliyun-beijing-larbing](https://github.com/cuisongliu/sync-aliyun-beijing-larbing)
+2. 🗣 Commented on [#736](https://github.com/labring-actions/cluster-image/issues/736#issuecomment-1832012145) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🗣 Commented on [#736](https://github.com/labring-actions/cluster-image/issues/736#issuecomment-1832007845) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🗣 Commented on [#736](https://github.com/labring-actions/cluster-image/issues/736#issuecomment-1831997396) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. 🎉 Merged PR [#737](https://github.com/labring-actions/cluster-image/pull/737) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
 ---
