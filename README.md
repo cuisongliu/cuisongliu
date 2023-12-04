@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#498](https://github.com/labring-actions/cluster-image/issues/498#issuecomment-1838715393) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🗣 Commented on [#498](https://github.com/labring-actions/cluster-image/issues/498#issuecomment-1838715044) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. 🗣 Commented on [#498](https://github.com/labring-actions/cluster-image/issues/498#issuecomment-1838713999) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🎉 Merged PR [#81](https://github.com/labring-actions/cluster-image-docs/pull/81) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-5. 🎉 Merged PR [#80](https://github.com/labring-actions/cluster-image-docs/pull/80) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. 🗣 Commented on [#498](https://github.com/labring-actions/cluster-image/issues/498#issuecomment-1838741087) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#498](https://github.com/labring-actions/cluster-image/issues/498#issuecomment-1838740709) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🗣 Commented on [#498](https://github.com/labring-actions/cluster-image/issues/498#issuecomment-1838737442) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🗣 Commented on [#498](https://github.com/labring-actions/cluster-image/issues/498#issuecomment-1838728561) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. 🗣 Commented on [#498](https://github.com/labring-actions/cluster-image/issues/498#issuecomment-1838715393) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
 ---
