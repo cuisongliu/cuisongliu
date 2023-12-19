@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2570](https://github.com/containers/youki/pull/2570#issuecomment-1859193070) in [containers/youki](https://github.com/containers/youki)
-2. 🗣 Commented on [#2573](https://github.com/containers/youki/pull/2573#issuecomment-1859191427) in [containers/youki](https://github.com/containers/youki)
-3. 🎉 Merged PR [#77](https://github.com/cuisongliu/youki/pull/77) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
-4. 🎉 Merged PR [#78](https://github.com/cuisongliu/youki/pull/78) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
-5. 💪 Opened PR [#78](https://github.com/cuisongliu/youki/pull/78) in [cuisongliu/youki](https://github.com/cuisongliu/youki)
+1. 🔒 Closed issue [#4404](https://github.com/labring/sealos/issues/4404) in [labring/sealos](https://github.com/labring/sealos)
+2. 🎉 Merged PR [#4407](https://github.com/labring/sealos/pull/4407) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#4427](https://github.com/labring/sealos/pull/4427) in [labring/sealos](https://github.com/labring/sealos)
+4. 🗣 Commented on [#2570](https://github.com/containers/youki/pull/2570#issuecomment-1859193070) in [containers/youki](https://github.com/containers/youki)
+5. 🗣 Commented on [#2573](https://github.com/containers/youki/pull/2573#issuecomment-1859191427) in [containers/youki](https://github.com/containers/youki)
 <!--END_SECTION:activity-->
 
 ---
