@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2485](https://github.com/containers/youki/issues/2485) in [containers/youki](https://github.com/containers/youki)
-2. 🗣 Commented on [#2579](https://github.com/containers/youki/pull/2579#issuecomment-1865325541) in [containers/youki](https://github.com/containers/youki)
-3. 🗣 Commented on [#2579](https://github.com/containers/youki/pull/2579#issuecomment-1865325049) in [containers/youki](https://github.com/containers/youki)
-4. 🎉 Merged PR [#89](https://github.com/labring-actions/cluster-image-docs/pull/89) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-5. 🎉 Merged PR [#88](https://github.com/labring-actions/cluster-image-docs/pull/88) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. 🎉 Merged PR [#90](https://github.com/labring-actions/cluster-image-docs/pull/90) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🎉 Merged PR [#772](https://github.com/labring-actions/cluster-image/pull/772) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🔒 Closed issue [#2485](https://github.com/containers/youki/issues/2485) in [containers/youki](https://github.com/containers/youki)
+4. 🗣 Commented on [#2579](https://github.com/containers/youki/pull/2579#issuecomment-1865325541) in [containers/youki](https://github.com/containers/youki)
+5. 🗣 Commented on [#2579](https://github.com/containers/youki/pull/2579#issuecomment-1865325049) in [containers/youki](https://github.com/containers/youki)
 <!--END_SECTION:activity-->
 
 ---
