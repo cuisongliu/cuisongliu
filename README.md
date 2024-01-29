@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5249](https://github.com/seaweedfs/seaweedfs/issues/5249#issuecomment-1914145278) in [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
-2. ❗ Opened issue [#5249](https://github.com/seaweedfs/seaweedfs/issues/5249) in [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
-3. 🎉 Merged PR [#108](https://github.com/labring-actions/cluster-image-docs/pull/108) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-4. 🎉 Merged PR [#107](https://github.com/labring-actions/cluster-image-docs/pull/107) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-5. 🗣 Commented on [#669](https://github.com/cuisongliu/sealos/pull/669#issuecomment-1909432309) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+1. 💪 Opened PR [#5250](https://github.com/seaweedfs/seaweedfs/pull/5250) in [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+2. 🗣 Commented on [#5249](https://github.com/seaweedfs/seaweedfs/issues/5249#issuecomment-1914145278) in [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+3. ❗ Opened issue [#5249](https://github.com/seaweedfs/seaweedfs/issues/5249) in [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+4. 🎉 Merged PR [#108](https://github.com/labring-actions/cluster-image-docs/pull/108) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+5. 🎉 Merged PR [#107](https://github.com/labring-actions/cluster-image-docs/pull/107) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
 <!--END_SECTION:activity-->
 
 ---
