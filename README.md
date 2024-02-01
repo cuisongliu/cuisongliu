@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#670](https://github.com/cuisongliu/sealos/pull/670#issuecomment-1920899720) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🗣 Commented on [#4514](https://github.com/labring/sealos/issues/4514#issuecomment-1918625128) in [labring/sealos](https://github.com/labring/sealos)
-3. 🔒 Closed issue [#5249](https://github.com/seaweedfs/seaweedfs/issues/5249) in [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
-4. 🗣 Commented on [#5250](https://github.com/seaweedfs/seaweedfs/pull/5250#issuecomment-1918368426) in [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
-5. 🗣 Commented on [#5267](https://github.com/seaweedfs/seaweedfs/pull/5267#issuecomment-1918347019) in [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+1. 🔒 Closed issue [#725](https://github.com/labring-actions/cluster-image/issues/725) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#725](https://github.com/labring-actions/cluster-image/issues/725#issuecomment-1921536678) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🎉 Merged PR [#834](https://github.com/labring-actions/cluster-image/pull/834) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🎉 Merged PR [#109](https://github.com/labring-actions/cluster-image-docs/pull/109) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+5. 🗣 Commented on [#670](https://github.com/cuisongliu/sealos/pull/670#issuecomment-1920899720) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
 <!--END_SECTION:activity-->
 
 ---
