@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#144](https://github.com/labring/endpoints-operator/pull/144) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-2. 🔒 Closed issue [#143](https://github.com/labring/endpoints-operator/issues/143) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-3. 🎉 Merged PR [#139](https://github.com/labring-actions/cluster-image-docs/pull/139) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-4. 🎉 Merged PR [#4681](https://github.com/labring/sealos/pull/4681) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#138](https://github.com/labring-actions/cluster-image-docs/pull/138) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. 🎉 Merged PR [#140](https://github.com/labring-actions/cluster-image-docs/pull/140) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🎉 Merged PR [#144](https://github.com/labring/endpoints-operator/pull/144) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+3. 💪 Opened PR [#144](https://github.com/labring/endpoints-operator/pull/144) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+4. 🔒 Closed issue [#143](https://github.com/labring/endpoints-operator/issues/143) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+5. 🎉 Merged PR [#139](https://github.com/labring-actions/cluster-image-docs/pull/139) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
 <!--END_SECTION:activity-->
 
 ---
