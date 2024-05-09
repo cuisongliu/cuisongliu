@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#880](https://github.com/labring-actions/cluster-image/pull/880) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🔒 Closed issue [#4697](https://github.com/labring/sealos/issues/4697) in [labring/sealos](https://github.com/labring/sealos)
-3. 🔓 Reopened issue [#3900](https://github.com/labring/sealos/issues/3900) in [labring/sealos](https://github.com/labring/sealos)
-4. 🔓 Reopened issue [#4113](https://github.com/labring/sealos/issues/4113) in [labring/sealos](https://github.com/labring/sealos)
-5. ❗ Opened issue [#3360](https://github.com/cubefs/cubefs/issues/3360) in [cubefs/cubefs](https://github.com/cubefs/cubefs)
+1. 💪 Opened PR [#1513](https://github.com/prometheus/client_golang/pull/1513) in [prometheus/client_golang](https://github.com/prometheus/client_golang)
+2. 🎉 Merged PR [#880](https://github.com/labring-actions/cluster-image/pull/880) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🔒 Closed issue [#4697](https://github.com/labring/sealos/issues/4697) in [labring/sealos](https://github.com/labring/sealos)
+4. 🔓 Reopened issue [#3900](https://github.com/labring/sealos/issues/3900) in [labring/sealos](https://github.com/labring/sealos)
+5. 🔓 Reopened issue [#4113](https://github.com/labring/sealos/issues/4113) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
