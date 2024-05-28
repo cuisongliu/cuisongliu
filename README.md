@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7445](https://github.com/apecloud/kubeblocks/issues/7445#issuecomment-2134950526) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
-2. 🗣 Commented on [#7445](https://github.com/apecloud/kubeblocks/issues/7445#issuecomment-2134942942) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
-3. 🗣 Commented on [#7445](https://github.com/apecloud/kubeblocks/issues/7445#issuecomment-2134902393) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
-4. ❗ Opened issue [#7445](https://github.com/apecloud/kubeblocks/issues/7445) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
-5. 🎉 Merged PR [#159](https://github.com/labring-actions/cluster-image-docs/pull/159) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. 🗣 Commented on [#7445](https://github.com/apecloud/kubeblocks/issues/7445#issuecomment-2134973915) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
+2. 🗣 Commented on [#7445](https://github.com/apecloud/kubeblocks/issues/7445#issuecomment-2134956374) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
+3. 🗣 Commented on [#7445](https://github.com/apecloud/kubeblocks/issues/7445#issuecomment-2134954280) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
+4. 🗣 Commented on [#7445](https://github.com/apecloud/kubeblocks/issues/7445#issuecomment-2134950526) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
+5. 🗣 Commented on [#7445](https://github.com/apecloud/kubeblocks/issues/7445#issuecomment-2134942942) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
 <!--END_SECTION:activity-->
 
 ---
