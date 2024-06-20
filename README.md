@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#974](https://github.com/labring-actions/cluster-image/issues/974#issuecomment-2178334470) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🎉 Merged PR [#166](https://github.com/labring-actions/cluster-image-docs/pull/166) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-3. 🎉 Merged PR [#163](https://github.com/labring-actions/cluster-image-docs/pull/163) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-4. 🎉 Merged PR [#162](https://github.com/labring-actions/cluster-image-docs/pull/162) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. 🗣 Commented on [#974](https://github.com/labring-actions/cluster-image/issues/974#issuecomment-2179758443) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#974](https://github.com/labring-actions/cluster-image/issues/974#issuecomment-2179757710) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🗣 Commented on [#974](https://github.com/labring-actions/cluster-image/issues/974#issuecomment-2178334470) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🎉 Merged PR [#166](https://github.com/labring-actions/cluster-image-docs/pull/166) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
 5. 🎉 Merged PR [#161](https://github.com/labring-actions/cluster-image-docs/pull/161) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
 <!--END_SECTION:activity-->
 
