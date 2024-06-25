@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#170](https://github.com/labring-actions/cluster-image-docs/pull/170) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-2. 🎉 Merged PR [#169](https://github.com/labring-actions/cluster-image-docs/pull/169) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-3. 🎉 Merged PR [#168](https://github.com/labring-actions/cluster-image-docs/pull/168) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-4. 🎉 Merged PR [#167](https://github.com/labring-actions/cluster-image-docs/pull/167) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-5. 🗣 Commented on [#974](https://github.com/labring-actions/cluster-image/issues/974#issuecomment-2179758443) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. ❗ Opened issue [#10](https://github.com/WasmEdge/mediapipe-rs/issues/10) in [WasmEdge/mediapipe-rs](https://github.com/WasmEdge/mediapipe-rs)
+2. 🎉 Merged PR [#170](https://github.com/labring-actions/cluster-image-docs/pull/170) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+3. 🎉 Merged PR [#169](https://github.com/labring-actions/cluster-image-docs/pull/169) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+4. 🎉 Merged PR [#168](https://github.com/labring-actions/cluster-image-docs/pull/168) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+5. 🎉 Merged PR [#167](https://github.com/labring-actions/cluster-image-docs/pull/167) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
 <!--END_SECTION:activity-->
 
 ---
