@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2643](https://github.com/jaegertracing/jaeger-operator/issues/2643#issuecomment-2275735664) in [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
-2. ❗ Opened issue [#2643](https://github.com/jaegertracing/jaeger-operator/issues/2643) in [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
-3. 🎉 Merged PR [#184](https://github.com/labring-actions/cluster-image-docs/pull/184) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-4. 🎉 Merged PR [#183](https://github.com/labring-actions/cluster-image-docs/pull/183) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-5. 🎉 Merged PR [#182](https://github.com/labring-actions/cluster-image-docs/pull/182) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. 🎉 Merged PR [#185](https://github.com/labring-actions/cluster-image-docs/pull/185) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🗣 Commented on [#2643](https://github.com/jaegertracing/jaeger-operator/issues/2643#issuecomment-2275735664) in [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
+3. ❗ Opened issue [#2643](https://github.com/jaegertracing/jaeger-operator/issues/2643) in [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
+4. 🎉 Merged PR [#184](https://github.com/labring-actions/cluster-image-docs/pull/184) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+5. 🎉 Merged PR [#183](https://github.com/labring-actions/cluster-image-docs/pull/183) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
 <!--END_SECTION:activity-->
 
 ---
