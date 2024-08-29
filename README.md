@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#187](https://github.com/labring-actions/cluster-image-docs/pull/187) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-2. 🎉 Merged PR [#186](https://github.com/labring-actions/cluster-image-docs/pull/186) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-3. 🗣 Commented on [#2643](https://github.com/jaegertracing/jaeger-operator/issues/2643#issuecomment-2282661735) in [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
-4. 🎉 Merged PR [#185](https://github.com/labring-actions/cluster-image-docs/pull/185) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-5. 🗣 Commented on [#2643](https://github.com/jaegertracing/jaeger-operator/issues/2643#issuecomment-2275735664) in [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
+1. 🎉 Merged PR [#188](https://github.com/labring-actions/cluster-image-docs/pull/188) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🎉 Merged PR [#187](https://github.com/labring-actions/cluster-image-docs/pull/187) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+3. 🎉 Merged PR [#186](https://github.com/labring-actions/cluster-image-docs/pull/186) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+4. 🗣 Commented on [#2643](https://github.com/jaegertracing/jaeger-operator/issues/2643#issuecomment-2282661735) in [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
+5. 🎉 Merged PR [#185](https://github.com/labring-actions/cluster-image-docs/pull/185) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
 <!--END_SECTION:activity-->
 
 ---
