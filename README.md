@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/cuisongliu/automq-operator/pull/20) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-2. 🎉 Merged PR [#204](https://github.com/labring-actions/cluster-image-docs/pull/204) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-3. 💪 Opened PR [#20](https://github.com/cuisongliu/automq-operator/pull/20) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-4. 🎉 Merged PR [#18](https://github.com/cuisongliu/automq-operator/pull/18) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-5. 🎉 Merged PR [#19](https://github.com/cuisongliu/automq-operator/pull/19) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+1. 🗣 Commented on [#10](https://github.com/WasmEdge/mediapipe-rs/issues/10#issuecomment-2386525841) in [WasmEdge/mediapipe-rs](https://github.com/WasmEdge/mediapipe-rs)
+2. 🎉 Merged PR [#20](https://github.com/cuisongliu/automq-operator/pull/20) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+3. 🎉 Merged PR [#204](https://github.com/labring-actions/cluster-image-docs/pull/204) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+4. 💪 Opened PR [#20](https://github.com/cuisongliu/automq-operator/pull/20) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+5. 🎉 Merged PR [#18](https://github.com/cuisongliu/automq-operator/pull/18) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
 <!--END_SECTION:activity-->
 
 ---
