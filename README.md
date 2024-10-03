@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/cuisongliu/automq-operator/pull/27) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-2. 🎉 Merged PR [#26](https://github.com/cuisongliu/automq-operator/pull/26) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-3. 💪 Opened PR [#26](https://github.com/cuisongliu/automq-operator/pull/26) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-4. 🎉 Merged PR [#25](https://github.com/cuisongliu/automq-operator/pull/25) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-5. 💪 Opened PR [#25](https://github.com/cuisongliu/automq-operator/pull/25) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+1. 🎉 Merged PR [#27](https://github.com/cuisongliu/automq-operator/pull/27) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+2. 💪 Opened PR [#27](https://github.com/cuisongliu/automq-operator/pull/27) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+3. 🎉 Merged PR [#26](https://github.com/cuisongliu/automq-operator/pull/26) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+4. 💪 Opened PR [#26](https://github.com/cuisongliu/automq-operator/pull/26) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+5. 🎉 Merged PR [#25](https://github.com/cuisongliu/automq-operator/pull/25) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
 <!--END_SECTION:activity-->
 
 ---
