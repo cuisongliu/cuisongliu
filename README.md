@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/cuisongliu/automq-operator/pull/33) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-2. 🎉 Merged PR [#32](https://github.com/cuisongliu/automq-operator/pull/32) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-3. 💪 Opened PR [#32](https://github.com/cuisongliu/automq-operator/pull/32) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-4. 🗣 Commented on [#10](https://github.com/WasmEdge/mediapipe-rs/issues/10#issuecomment-2394224621) in [WasmEdge/mediapipe-rs](https://github.com/WasmEdge/mediapipe-rs)
-5. 🎉 Merged PR [#30](https://github.com/cuisongliu/automq-operator/pull/30) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+1. 🎉 Merged PR [#33](https://github.com/cuisongliu/automq-operator/pull/33) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+2. 💪 Opened PR [#2044](https://github.com/AutoMQ/automq/pull/2044) in [AutoMQ/automq](https://github.com/AutoMQ/automq)
+3. ❌ Closed PR [#4](https://github.com/cuisongliu/automq/pull/4) in [cuisongliu/automq](https://github.com/cuisongliu/automq)
+4. 💪 Opened PR [#4](https://github.com/cuisongliu/automq/pull/4) in [cuisongliu/automq](https://github.com/cuisongliu/automq)
+5. 💪 Opened PR [#33](https://github.com/cuisongliu/automq-operator/pull/33) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
 <!--END_SECTION:activity-->
 
 ---
