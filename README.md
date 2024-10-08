@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#679](https://github.com/cuisongliu/sealos/pull/679#issuecomment-2399424011) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🎉 Merged PR [#33](https://github.com/cuisongliu/automq-operator/pull/33) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-3. 💪 Opened PR [#2044](https://github.com/AutoMQ/automq/pull/2044) in [AutoMQ/automq](https://github.com/AutoMQ/automq)
-4. ❌ Closed PR [#4](https://github.com/cuisongliu/automq/pull/4) in [cuisongliu/automq](https://github.com/cuisongliu/automq)
-5. 💪 Opened PR [#4](https://github.com/cuisongliu/automq/pull/4) in [cuisongliu/automq](https://github.com/cuisongliu/automq)
+1. 🎉 Merged PR [#205](https://github.com/labring-actions/cluster-image-docs/pull/205) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🗣 Commented on [#679](https://github.com/cuisongliu/sealos/pull/679#issuecomment-2399424011) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+3. 🎉 Merged PR [#33](https://github.com/cuisongliu/automq-operator/pull/33) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+4. 💪 Opened PR [#2044](https://github.com/AutoMQ/automq/pull/2044) in [AutoMQ/automq](https://github.com/AutoMQ/automq)
+5. ❌ Closed PR [#4](https://github.com/cuisongliu/automq/pull/4) in [cuisongliu/automq](https://github.com/cuisongliu/automq)
 <!--END_SECTION:activity-->
 
 ---
