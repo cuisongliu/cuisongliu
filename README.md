@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/cuisongliu/automq-operator/pull/47) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-2. 🗣 Commented on [#1090](https://github.com/labring-actions/cluster-image/issues/1090#issuecomment-2415558896) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. ❗ Opened issue [#1090](https://github.com/labring-actions/cluster-image/issues/1090) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🎉 Merged PR [#46](https://github.com/cuisongliu/automq-operator/pull/46) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-5. 🎉 Merged PR [#5148](https://github.com/labring/sealos/pull/5148) in [labring/sealos](https://github.com/labring/sealos)
+1. 💪 Opened PR [#48](https://github.com/cuisongliu/automq-operator/pull/48) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+2. 🎉 Merged PR [#47](https://github.com/cuisongliu/automq-operator/pull/47) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+3. 💪 Opened PR [#47](https://github.com/cuisongliu/automq-operator/pull/47) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+4. 🗣 Commented on [#1090](https://github.com/labring-actions/cluster-image/issues/1090#issuecomment-2415558896) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. ❗ Opened issue [#1090](https://github.com/labring-actions/cluster-image/issues/1090) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
 ---
