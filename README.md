@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1090](https://github.com/labring-actions/cluster-image/issues/1090#issuecomment-2416240284) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🎉 Merged PR [#85](https://github.com/labring-actions/sync-aliyun/pull/85) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-3. 🎉 Merged PR [#47](https://github.com/cuisongliu/sync-aliyun-beijing-larbing/pull/47) in [cuisongliu/sync-aliyun-beijing-larbing](https://github.com/cuisongliu/sync-aliyun-beijing-larbing)
-4. 🎉 Merged PR [#51](https://github.com/cuisongliu/automq-operator/pull/51) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-5. 💪 Opened PR [#51](https://github.com/cuisongliu/automq-operator/pull/51) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+1. 🗣 Commented on [#1090](https://github.com/labring-actions/cluster-image/issues/1090#issuecomment-2418513021) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#1090](https://github.com/labring-actions/cluster-image/issues/1090#issuecomment-2418509597) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🎉 Merged PR [#53](https://github.com/cuisongliu/automq-operator/pull/53) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+4. 🎉 Merged PR [#52](https://github.com/cuisongliu/automq-operator/pull/52) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+5. 💪 Opened PR [#52](https://github.com/cuisongliu/automq-operator/pull/52) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
 <!--END_SECTION:activity-->
 
 ---
