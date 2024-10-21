@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/cuisongliu/automq-operator/issues/64#issuecomment-2426402223) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-2. ❗ Opened issue [#64](https://github.com/cuisongliu/automq-operator/issues/64) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-3. ❗ Opened issue [#63](https://github.com/cuisongliu/automq-operator/issues/63) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-4. 🗣 Commented on [#1090](https://github.com/labring-actions/cluster-image/issues/1090#issuecomment-2426025344) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🎉 Merged PR [#62](https://github.com/cuisongliu/automq-operator/pull/62) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+1. ❗ Opened issue [#69](https://github.com/cuisongliu/automq-operator/issues/69) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+2. ❗ Opened issue [#68](https://github.com/cuisongliu/automq-operator/issues/68) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+3. ❗ Opened issue [#67](https://github.com/cuisongliu/automq-operator/issues/67) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+4. ❗ Opened issue [#66](https://github.com/cuisongliu/automq-operator/issues/66) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+5. ❗ Opened issue [#65](https://github.com/cuisongliu/automq-operator/issues/65) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
 <!--END_SECTION:activity-->
 
 ---
