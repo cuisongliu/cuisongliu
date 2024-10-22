@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#69](https://github.com/cuisongliu/automq-operator/issues/69) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-2. ❗ Opened issue [#68](https://github.com/cuisongliu/automq-operator/issues/68) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-3. ❗ Opened issue [#67](https://github.com/cuisongliu/automq-operator/issues/67) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-4. ❗ Opened issue [#66](https://github.com/cuisongliu/automq-operator/issues/66) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-5. ❗ Opened issue [#65](https://github.com/cuisongliu/automq-operator/issues/65) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+1. ❗ Opened issue [#1418](https://github.com/alibaba/higress/issues/1418) in [alibaba/higress](https://github.com/alibaba/higress)
+2. ❗ Opened issue [#69](https://github.com/cuisongliu/automq-operator/issues/69) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+3. ❗ Opened issue [#68](https://github.com/cuisongliu/automq-operator/issues/68) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+4. ❗ Opened issue [#67](https://github.com/cuisongliu/automq-operator/issues/67) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+5. ❗ Opened issue [#66](https://github.com/cuisongliu/automq-operator/issues/66) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
 <!--END_SECTION:activity-->
 
 ---
