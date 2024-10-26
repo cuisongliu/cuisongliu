@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1418](https://github.com/alibaba/higress/issues/1418) in [alibaba/higress](https://github.com/alibaba/higress)
-2. ❗ Opened issue [#1418](https://github.com/alibaba/higress/issues/1418) in [alibaba/higress](https://github.com/alibaba/higress)
-3. ❗ Opened issue [#69](https://github.com/cuisongliu/automq-operator/issues/69) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-4. ❗ Opened issue [#68](https://github.com/cuisongliu/automq-operator/issues/68) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
-5. ❗ Opened issue [#67](https://github.com/cuisongliu/automq-operator/issues/67) in [cuisongliu/automq-operator](https://github.com/cuisongliu/automq-operator)
+1. 🗣 Commented on [#560](https://github.com/labring-actions/cluster-image/issues/560#issuecomment-2439341513) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+2. 🗣 Commented on [#560](https://github.com/labring-actions/cluster-image/issues/560#issuecomment-2439338108) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+3. 🗣 Commented on [#41](https://github.com/labring-actions/cluster-image/issues/41#issuecomment-2439282300) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🗣 Commented on [#41](https://github.com/labring-actions/cluster-image/issues/41#issuecomment-2439282193) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. 🔒 Closed issue [#1418](https://github.com/alibaba/higress/issues/1418) in [alibaba/higress](https://github.com/alibaba/higress)
 <!--END_SECTION:activity-->
 
 ---
