@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#215](https://github.com/labring-actions/cluster-image-docs/pull/215) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-2. 🗣 Commented on [#560](https://github.com/labring-actions/cluster-image/issues/560#issuecomment-2439341513) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. 🗣 Commented on [#560](https://github.com/labring-actions/cluster-image/issues/560#issuecomment-2439338108) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🗣 Commented on [#41](https://github.com/labring-actions/cluster-image/issues/41#issuecomment-2439282300) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🗣 Commented on [#41](https://github.com/labring-actions/cluster-image/issues/41#issuecomment-2439282193) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+1. 🎉 Merged PR [#216](https://github.com/labring-actions/cluster-image-docs/pull/216) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🎉 Merged PR [#215](https://github.com/labring-actions/cluster-image-docs/pull/215) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+3. 🗣 Commented on [#560](https://github.com/labring-actions/cluster-image/issues/560#issuecomment-2439341513) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🗣 Commented on [#560](https://github.com/labring-actions/cluster-image/issues/560#issuecomment-2439338108) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. 🗣 Commented on [#41](https://github.com/labring-actions/cluster-image/issues/41#issuecomment-2439282300) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
 <!--END_SECTION:activity-->
 
 ---
