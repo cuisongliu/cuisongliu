@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#218](https://github.com/labring-actions/cluster-image-docs/pull/218) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-2. ❌ Closed PR [#1411](https://github.com/alibaba/higress/pull/1411) in [alibaba/higress](https://github.com/alibaba/higress)
-3. 🗣 Commented on [#5180](https://github.com/labring/sealos/issues/5180#issuecomment-2445641582) in [labring/sealos](https://github.com/labring/sealos)
-4. ❗ Opened issue [#5180](https://github.com/labring/sealos/issues/5180) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#216](https://github.com/labring-actions/cluster-image-docs/pull/216) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. 🎉 Merged PR [#219](https://github.com/labring-actions/cluster-image-docs/pull/219) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🎉 Merged PR [#218](https://github.com/labring-actions/cluster-image-docs/pull/218) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+3. ❌ Closed PR [#1411](https://github.com/alibaba/higress/pull/1411) in [alibaba/higress](https://github.com/alibaba/higress)
+4. 🗣 Commented on [#5180](https://github.com/labring/sealos/issues/5180#issuecomment-2445641582) in [labring/sealos](https://github.com/labring/sealos)
+5. ❗ Opened issue [#5180](https://github.com/labring/sealos/issues/5180) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
