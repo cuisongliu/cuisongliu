@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#512](https://github.com/labring-actions/cluster-image/issues/512#issuecomment-2563258195) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-2. 🗣 Commented on [#512](https://github.com/labring-actions/cluster-image/issues/512#issuecomment-2563257918) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-3. 🗣 Commented on [#4662](https://github.com/labring/sealos/issues/4662#issuecomment-2558526340) in [labring/sealos](https://github.com/labring/sealos)
-4. 🗣 Commented on [#3137](https://github.com/labring/sealos/issues/3137#issuecomment-2558526160) in [labring/sealos](https://github.com/labring/sealos)
-5. 🔒 Closed issue [#5007](https://github.com/labring/sealos/issues/5007) in [labring/sealos](https://github.com/labring/sealos)
+1. ❗ Opened issue [#37482](https://github.com/DaoCloud/public-image-mirror/issues/37482) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+2. ❗ Opened issue [#37481](https://github.com/DaoCloud/public-image-mirror/issues/37481) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+3. 🗣 Commented on [#512](https://github.com/labring-actions/cluster-image/issues/512#issuecomment-2563258195) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🗣 Commented on [#512](https://github.com/labring-actions/cluster-image/issues/512#issuecomment-2563257918) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+5. 🗣 Commented on [#4662](https://github.com/labring/sealos/issues/4662#issuecomment-2558526340) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
