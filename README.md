@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37482](https://github.com/DaoCloud/public-image-mirror/issues/37482) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-2. ❗ Opened issue [#37481](https://github.com/DaoCloud/public-image-mirror/issues/37481) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-3. 🗣 Commented on [#512](https://github.com/labring-actions/cluster-image/issues/512#issuecomment-2563258195) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-4. 🗣 Commented on [#512](https://github.com/labring-actions/cluster-image/issues/512#issuecomment-2563257918) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
-5. 🗣 Commented on [#4662](https://github.com/labring/sealos/issues/4662#issuecomment-2558526340) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#234](https://github.com/labring-actions/cluster-image-docs/pull/234) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🗣 Commented on [#37486](https://github.com/DaoCloud/public-image-mirror/pull/37486#issuecomment-2564280656) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+3. 💪 Opened PR [#37486](https://github.com/DaoCloud/public-image-mirror/pull/37486) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+4. ❌ Closed PR [#1](https://github.com/cuisongliu/public-image-mirror/pull/1) in [cuisongliu/public-image-mirror](https://github.com/cuisongliu/public-image-mirror)
+5. 💪 Opened PR [#1](https://github.com/cuisongliu/public-image-mirror/pull/1) in [cuisongliu/public-image-mirror](https://github.com/cuisongliu/public-image-mirror)
 <!--END_SECTION:activity-->
 
 ---
