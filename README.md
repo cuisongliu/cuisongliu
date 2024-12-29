@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5180](https://github.com/labring/sealos/issues/5180#issuecomment-2564615338) in [labring/sealos](https://github.com/labring/sealos)
-2. 🔒 Closed issue [#37537](https://github.com/DaoCloud/public-image-mirror/issues/37537) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-3. ❗ Opened issue [#37537](https://github.com/DaoCloud/public-image-mirror/issues/37537) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-4. 🔒 Closed issue [#37536](https://github.com/DaoCloud/public-image-mirror/issues/37536) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-5. ❗ Opened issue [#37536](https://github.com/DaoCloud/public-image-mirror/issues/37536) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+1. 🎉 Merged PR [#2](https://github.com/labring-actions/rbuild-runtime/pull/2) in [labring-actions/rbuild-runtime](https://github.com/labring-actions/rbuild-runtime)
+2. 💪 Opened PR [#2](https://github.com/labring-actions/rbuild-runtime/pull/2) in [labring-actions/rbuild-runtime](https://github.com/labring-actions/rbuild-runtime)
+3. 🎉 Merged PR [#1](https://github.com/labring-actions/rbuild-runtime/pull/1) in [labring-actions/rbuild-runtime](https://github.com/labring-actions/rbuild-runtime)
+4. 💪 Opened PR [#1](https://github.com/labring-actions/rbuild-runtime/pull/1) in [labring-actions/rbuild-runtime](https://github.com/labring-actions/rbuild-runtime)
+5. ❌ Closed PR [#1](https://github.com/cuisongliu/rbuild-runtime/pull/1) in [cuisongliu/rbuild-runtime](https://github.com/cuisongliu/rbuild-runtime)
 <!--END_SECTION:activity-->
 
 ---
