@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#37537](https://github.com/DaoCloud/public-image-mirror/issues/37537) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-2. ❗ Opened issue [#37537](https://github.com/DaoCloud/public-image-mirror/issues/37537) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-3. 🔒 Closed issue [#37536](https://github.com/DaoCloud/public-image-mirror/issues/37536) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-4. ❗ Opened issue [#37536](https://github.com/DaoCloud/public-image-mirror/issues/37536) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-5. 🔒 Closed issue [#37535](https://github.com/DaoCloud/public-image-mirror/issues/37535) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+1. 🗣 Commented on [#5180](https://github.com/labring/sealos/issues/5180#issuecomment-2564615338) in [labring/sealos](https://github.com/labring/sealos)
+2. 🔒 Closed issue [#37537](https://github.com/DaoCloud/public-image-mirror/issues/37537) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+3. ❗ Opened issue [#37537](https://github.com/DaoCloud/public-image-mirror/issues/37537) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+4. 🔒 Closed issue [#37536](https://github.com/DaoCloud/public-image-mirror/issues/37536) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+5. ❗ Opened issue [#37536](https://github.com/DaoCloud/public-image-mirror/issues/37536) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
 <!--END_SECTION:activity-->
 
 ---
