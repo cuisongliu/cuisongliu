@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/labring-actions/sync-aliyun/pull/89) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-2. 🎉 Merged PR [#240](https://github.com/labring-actions/cluster-image-docs/pull/240) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-3. 🎉 Merged PR [#239](https://github.com/labring-actions/cluster-image-docs/pull/239) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-4. ❗ Opened issue [#37565](https://github.com/DaoCloud/public-image-mirror/issues/37565) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+1. 🎉 Merged PR [#241](https://github.com/labring-actions/cluster-image-docs/pull/241) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🎉 Merged PR [#89](https://github.com/labring-actions/sync-aliyun/pull/89) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
+3. 🎉 Merged PR [#240](https://github.com/labring-actions/cluster-image-docs/pull/240) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+4. 🎉 Merged PR [#239](https://github.com/labring-actions/cluster-image-docs/pull/239) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
 5. 🎉 Merged PR [#2](https://github.com/labring-actions/rbuild-runtime/pull/2) in [labring-actions/rbuild-runtime](https://github.com/labring-actions/rbuild-runtime)
 <!--END_SECTION:activity-->
 
