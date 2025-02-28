@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/labring-actions/cluster-image-docs/pull/243) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-2. 🎉 Merged PR [#242](https://github.com/labring-actions/cluster-image-docs/pull/242) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-3. 🎉 Merged PR [#241](https://github.com/labring-actions/cluster-image-docs/pull/241) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-4. 🎉 Merged PR [#89](https://github.com/labring-actions/sync-aliyun/pull/89) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-5. 🎉 Merged PR [#240](https://github.com/labring-actions/cluster-image-docs/pull/240) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. 🎉 Merged PR [#244](https://github.com/labring-actions/cluster-image-docs/pull/244) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🎉 Merged PR [#243](https://github.com/labring-actions/cluster-image-docs/pull/243) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+3. 🎉 Merged PR [#242](https://github.com/labring-actions/cluster-image-docs/pull/242) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+4. 🎉 Merged PR [#241](https://github.com/labring-actions/cluster-image-docs/pull/241) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+5. 🎉 Merged PR [#89](https://github.com/labring-actions/sync-aliyun/pull/89) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
 <!--END_SECTION:activity-->
 
 ---
