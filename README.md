@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/toheart/goanalysis/issues/12) in [toheart/goanalysis](https://github.com/toheart/goanalysis)
-2. 🎉 Merged PR [#8](https://github.com/labring/sreg/pull/8) in [labring/sreg](https://github.com/labring/sreg)
-3. 💪 Opened PR [#8](https://github.com/labring/sreg/pull/8) in [labring/sreg](https://github.com/labring/sreg)
-4. 🎉 Merged PR [#7](https://github.com/labring/sreg/pull/7) in [labring/sreg](https://github.com/labring/sreg)
-5. 🎉 Merged PR [#245](https://github.com/labring-actions/cluster-image-docs/pull/245) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. 🎉 Merged PR [#246](https://github.com/labring-actions/cluster-image-docs/pull/246) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. ❗ Opened issue [#12](https://github.com/toheart/goanalysis/issues/12) in [toheart/goanalysis](https://github.com/toheart/goanalysis)
+3. 🎉 Merged PR [#8](https://github.com/labring/sreg/pull/8) in [labring/sreg](https://github.com/labring/sreg)
+4. 💪 Opened PR [#8](https://github.com/labring/sreg/pull/8) in [labring/sreg](https://github.com/labring/sreg)
+5. 🎉 Merged PR [#7](https://github.com/labring/sreg/pull/7) in [labring/sreg](https://github.com/labring/sreg)
 <!--END_SECTION:activity-->
 
 ---
