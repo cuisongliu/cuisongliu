@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2886664255) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
-2. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2886660497) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
-3. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2886634002) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
-4. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2886625615) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
-5. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2886623116) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+1. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2887236977) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+2. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2887223323) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+3. 🗣 Commented on [#32](https://github.com/labring-actions/cluster-image/issues/32#issuecomment-2887158150) in [labring-actions/cluster-image](https://github.com/labring-actions/cluster-image)
+4. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2886664255) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+5. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2886660497) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
 <!--END_SECTION:activity-->
 
 ---
