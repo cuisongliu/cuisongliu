@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42589](https://github.com/DaoCloud/public-image-mirror/issues/42589) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-2. 🎉 Merged PR [#246](https://github.com/labring-actions/cluster-image-docs/pull/246) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-3. ❗ Opened issue [#12](https://github.com/toheart/goanalysis/issues/12) in [toheart/goanalysis](https://github.com/toheart/goanalysis)
-4. 🎉 Merged PR [#8](https://github.com/labring/sreg/pull/8) in [labring/sreg](https://github.com/labring/sreg)
-5. 💪 Opened PR [#8](https://github.com/labring/sreg/pull/8) in [labring/sreg](https://github.com/labring/sreg)
+1. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2886634002) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+2. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2886625615) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+3. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2886623116) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+4. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2886617853) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+5. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2886609905) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
 <!--END_SECTION:activity-->
 
 ---
