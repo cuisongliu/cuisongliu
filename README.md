@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2893182289) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
-2. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2892933969) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
-3. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2892717310) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
-4. 🚀 Published release [v0.0.2](https://github.com/infra-kubernetes/download/releases/tag/v0.0.2) in [infra-kubernetes/download](https://github.com/infra-kubernetes/download)
-5. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2891476458) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+1. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2893458103) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+2. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2893372931) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+3. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2893182289) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+4. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2892933969) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+5. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2892717310) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
 <!--END_SECTION:activity-->
 
 ---
