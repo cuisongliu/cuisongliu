@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9382](https://github.com/apecloud/kubeblocks/issues/9382) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
-2. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2893704219) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
-3. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2893692528) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
-4. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2893687033) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
-5. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2893657750) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+1. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2902388669) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+2. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2902373905) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+3. ❗ Opened issue [#9382](https://github.com/apecloud/kubeblocks/issues/9382) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
+4. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2893704219) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+5. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2893692528) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
 <!--END_SECTION:activity-->
 
 ---
