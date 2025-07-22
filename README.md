@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## 📈 Stats
 
 <p align="center">
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cuisongliu&theme=dracula&show_icons=true" alt="maemreyo" width="380" height="152" />
+	<img src="https://github-readme-stats.vercel.app/api?username=cuisongliu&show_icons=true&theme=react&hide_border=false" alt="maemreyo" width="380" height="152" />
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=cuisongliu&theme=dracula&hide_border=false" alt="maemreyo" width="380" height="152"/>
 </p>
 <!--
