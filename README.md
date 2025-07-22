@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2903913221) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+1. 💪 Opened PR [#5713](https://github.com/labring/sealos/pull/5713) in [labring/sealos](https://github.com/labring/sealos)
 2. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2902615099) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
 3. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2902388669) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
 4. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2902373905) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
