@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5653](https://github.com/labring/sealos/pull/5653#issuecomment-3102417234) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#5713](https://github.com/labring/sealos/pull/5713) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2902388669) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
-4. 🗣 Commented on [#1](https://github.com/infra-kubernetes/infra/issues/1#issuecomment-2902373905) in [infra-kubernetes/infra](https://github.com/infra-kubernetes/infra)
+1. 🗣 Commented on [#5653](https://github.com/labring/sealos/pull/5653#issuecomment-3103011582) in [labring/sealos](https://github.com/labring/sealos)
+2. 💪 Opened PR [#5715](https://github.com/labring/sealos/pull/5715) in [labring/sealos](https://github.com/labring/sealos)
+3. 🗣 Commented on [#5653](https://github.com/labring/sealos/pull/5653#issuecomment-3102417234) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#5713](https://github.com/labring/sealos/pull/5713) in [labring/sealos](https://github.com/labring/sealos)
 5. ❗ Opened issue [#9382](https://github.com/apecloud/kubeblocks/issues/9382) in [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)
 <!--END_SECTION:activity-->
 
