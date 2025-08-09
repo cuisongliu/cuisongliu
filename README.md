@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#710](https://github.com/cuisongliu/sealos/pull/710) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🔒 Closed issue [#709](https://github.com/cuisongliu/sealos/issues/709) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-3. 🎉 Merged PR [#93](https://github.com/labring-actions/sync-aliyun/pull/93) in [labring-actions/sync-aliyun](https://github.com/labring-actions/sync-aliyun)
-4. 🎉 Merged PR [#5802](https://github.com/labring/sealos/pull/5802) in [labring/sealos](https://github.com/labring/sealos)
-5. 🔒 Closed issue [#5803](https://github.com/labring/sealos/issues/5803) in [labring/sealos](https://github.com/labring/sealos)
+1. 💪 Opened PR [#5807](https://github.com/labring/sealos/pull/5807) in [labring/sealos](https://github.com/labring/sealos)
+2. 💪 Opened PR [#5806](https://github.com/labring/sealos/pull/5806) in [labring/sealos](https://github.com/labring/sealos)
+3. ❌ Closed PR [#712](https://github.com/cuisongliu/sealos/pull/712) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+4. ❌ Closed PR [#710](https://github.com/cuisongliu/sealos/pull/710) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+5. 🔒 Closed issue [#709](https://github.com/cuisongliu/sealos/issues/709) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
 <!--END_SECTION:activity-->
 
 ---
