@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#781](https://github.com/cuisongliu/sealos/issues/781) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. ❌ Closed PR [#2875](https://github.com/alibaba/higress/pull/2875) in [alibaba/higress](https://github.com/alibaba/higress)
-3. 🎉 Merged PR [#5976](https://github.com/labring/sealos/pull/5976) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#5976](https://github.com/labring/sealos/pull/5976) in [labring/sealos](https://github.com/labring/sealos)
-5. ❗ Opened issue [#5975](https://github.com/labring/sealos/issues/5975) in [labring/sealos](https://github.com/labring/sealos)
+1. 🔒 Closed issue [#784](https://github.com/cuisongliu/sealos/issues/784) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+2. 🔒 Closed issue [#5977](https://github.com/labring/sealos/issues/5977) in [labring/sealos](https://github.com/labring/sealos)
+3. ❗ Opened issue [#16](https://github.com/cuisongliu/notes/issues/16) in [cuisongliu/notes](https://github.com/cuisongliu/notes)
+4. ❗ Opened issue [#15](https://github.com/cuisongliu/notes/issues/15) in [cuisongliu/notes](https://github.com/cuisongliu/notes)
+5. 🔒 Closed issue [#781](https://github.com/cuisongliu/sealos/issues/781) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
 <!--END_SECTION:activity-->
 
 ---
