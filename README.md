@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5976](https://github.com/labring/sealos/pull/5976) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#5976](https://github.com/labring/sealos/pull/5976) in [labring/sealos](https://github.com/labring/sealos)
-3. ❗ Opened issue [#5975](https://github.com/labring/sealos/issues/5975) in [labring/sealos](https://github.com/labring/sealos)
-4. 🎉 Merged PR [#5971](https://github.com/labring/sealos/pull/5971) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#5974](https://github.com/labring/sealos/pull/5974) in [labring/sealos](https://github.com/labring/sealos)
+1. 🔒 Closed issue [#781](https://github.com/cuisongliu/sealos/issues/781) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+2. ❌ Closed PR [#2875](https://github.com/alibaba/higress/pull/2875) in [alibaba/higress](https://github.com/alibaba/higress)
+3. 🎉 Merged PR [#5976](https://github.com/labring/sealos/pull/5976) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#5976](https://github.com/labring/sealos/pull/5976) in [labring/sealos](https://github.com/labring/sealos)
+5. ❗ Opened issue [#5975](https://github.com/labring/sealos/issues/5975) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
