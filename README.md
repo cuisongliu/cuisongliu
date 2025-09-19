@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#788](https://github.com/cuisongliu/sealos/issues/788) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 🗣 Commented on [#2434](https://github.com/VictoriaMetrics/helm-charts/pull/2434#issuecomment-3307401779) in [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts)
-3. 🗣 Commented on [#5987](https://github.com/labring/sealos/issues/5987#issuecomment-3298924896) in [labring/sealos](https://github.com/labring/sealos)
-4. 🔒 Closed issue [#5987](https://github.com/labring/sealos/issues/5987) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#5987](https://github.com/labring/sealos/issues/5987#issuecomment-3298921661) in [labring/sealos](https://github.com/labring/sealos)
+1. 🔒 Closed issue [#793](https://github.com/cuisongliu/sealos/issues/793) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+2. 🔒 Closed issue [#788](https://github.com/cuisongliu/sealos/issues/788) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+3. 🗣 Commented on [#2434](https://github.com/VictoriaMetrics/helm-charts/pull/2434#issuecomment-3307401779) in [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts)
+4. 🗣 Commented on [#5987](https://github.com/labring/sealos/issues/5987#issuecomment-3298924896) in [labring/sealos](https://github.com/labring/sealos)
+5. 🔒 Closed issue [#5987](https://github.com/labring/sealos/issues/5987) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
