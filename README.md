@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6003](https://github.com/labring/sealos/pull/6003) in [labring/sealos](https://github.com/labring/sealos)
-2. 🎉 Merged PR [#6002](https://github.com/labring/sealos/pull/6002) in [labring/sealos](https://github.com/labring/sealos)
-3. 🔒 Closed issue [#793](https://github.com/cuisongliu/sealos/issues/793) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-4. 🔒 Closed issue [#788](https://github.com/cuisongliu/sealos/issues/788) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-5. 🗣 Commented on [#2434](https://github.com/VictoriaMetrics/helm-charts/pull/2434#issuecomment-3307401779) in [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts)
+1. 🎉 Merged PR [#6004](https://github.com/labring/sealos/pull/6004) in [labring/sealos](https://github.com/labring/sealos)
+2. 🎉 Merged PR [#6003](https://github.com/labring/sealos/pull/6003) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#6002](https://github.com/labring/sealos/pull/6002) in [labring/sealos](https://github.com/labring/sealos)
+4. 🔒 Closed issue [#793](https://github.com/cuisongliu/sealos/issues/793) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+5. 🔒 Closed issue [#788](https://github.com/cuisongliu/sealos/issues/788) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
 <!--END_SECTION:activity-->
 
 ---
