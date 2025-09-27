@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6049](https://github.com/labring/sealos/pull/6049) in [labring/sealos](https://github.com/labring/sealos)
-2. 🔒 Closed issue [#6046](https://github.com/labring/sealos/issues/6046) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#6049](https://github.com/labring/sealos/pull/6049#issuecomment-3341344052) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#2076](https://github.com/apecloud/kubeblocks-addons/pull/2076) in [apecloud/kubeblocks-addons](https://github.com/apecloud/kubeblocks-addons)
-5. 🎉 Merged PR [#55](https://github.com/labring-actions/devbox-runtime/pull/55) in [labring-actions/devbox-runtime](https://github.com/labring-actions/devbox-runtime)
+1. 🎉 Merged PR [#6050](https://github.com/labring/sealos/pull/6050) in [labring/sealos](https://github.com/labring/sealos)
+2. 🎉 Merged PR [#6049](https://github.com/labring/sealos/pull/6049) in [labring/sealos](https://github.com/labring/sealos)
+3. 🔒 Closed issue [#6046](https://github.com/labring/sealos/issues/6046) in [labring/sealos](https://github.com/labring/sealos)
+4. 🗣 Commented on [#6049](https://github.com/labring/sealos/pull/6049#issuecomment-3341344052) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#2076](https://github.com/apecloud/kubeblocks-addons/pull/2076) in [apecloud/kubeblocks-addons](https://github.com/apecloud/kubeblocks-addons)
 <!--END_SECTION:activity-->
 
 ---
