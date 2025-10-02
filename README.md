@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#277](https://github.com/labring-actions/cluster-image-docs/pull/277) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-2. 🎉 Merged PR [#518](https://github.com/labring-actions/templates/pull/518) in [labring-actions/templates](https://github.com/labring-actions/templates)
-3. 💪 Opened PR [#518](https://github.com/labring-actions/templates/pull/518) in [labring-actions/templates](https://github.com/labring-actions/templates)
-4. 🔒 Closed issue [#6062](https://github.com/labring/sealos/issues/6062) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#6062](https://github.com/labring/sealos/issues/6062#issuecomment-3352037992) in [labring/sealos](https://github.com/labring/sealos)
+1. 🗣 Commented on [#23809](https://github.com/vectordotdev/vector/issues/23809#issuecomment-3356981217) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+2. 🎉 Merged PR [#277](https://github.com/labring-actions/cluster-image-docs/pull/277) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+3. 🎉 Merged PR [#518](https://github.com/labring-actions/templates/pull/518) in [labring-actions/templates](https://github.com/labring-actions/templates)
+4. 💪 Opened PR [#518](https://github.com/labring-actions/templates/pull/518) in [labring-actions/templates](https://github.com/labring-actions/templates)
+5. 🔒 Closed issue [#6062](https://github.com/labring/sealos/issues/6062) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
