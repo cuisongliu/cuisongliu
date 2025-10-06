@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6062](https://github.com/labring/sealos/issues/6062#issuecomment-3365657900) in [labring/sealos](https://github.com/labring/sealos)
-2. 🔒 Closed issue [#816](https://github.com/cuisongliu/sealos/issues/816) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-3. 🔒 Closed issue [#6064](https://github.com/labring/sealos/issues/6064) in [labring/sealos](https://github.com/labring/sealos)
-4. 🗣 Commented on [#23809](https://github.com/vectordotdev/vector/issues/23809#issuecomment-3356981217) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-5. 🎉 Merged PR [#277](https://github.com/labring-actions/cluster-image-docs/pull/277) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+1. ❌ Closed PR [#278](https://github.com/labring-actions/cluster-image-docs/pull/278) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+2. 🗣 Commented on [#6062](https://github.com/labring/sealos/issues/6062#issuecomment-3365657900) in [labring/sealos](https://github.com/labring/sealos)
+3. 🔒 Closed issue [#816](https://github.com/cuisongliu/sealos/issues/816) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+4. 🔒 Closed issue [#6064](https://github.com/labring/sealos/issues/6064) in [labring/sealos](https://github.com/labring/sealos)
+5. 🗣 Commented on [#23809](https://github.com/vectordotdev/vector/issues/23809#issuecomment-3356981217) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
 <!--END_SECTION:activity-->
 
 ---
