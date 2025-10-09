@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#819](https://github.com/cuisongliu/sealos/pull/819) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-2. 💪 Opened PR [#6067](https://github.com/labring/sealos/pull/6067) in [labring/sealos](https://github.com/labring/sealos)
-3. ❌ Closed PR [#6066](https://github.com/labring/sealos/pull/6066) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#819](https://github.com/cuisongliu/sealos/pull/819) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-5. 💪 Opened PR [#6066](https://github.com/labring/sealos/pull/6066) in [labring/sealos](https://github.com/labring/sealos)
+1. 🗣 Commented on [#6063](https://github.com/labring/sealos/pull/6063#issuecomment-3384571911) in [labring/sealos](https://github.com/labring/sealos)
+2. ❌ Closed PR [#819](https://github.com/cuisongliu/sealos/pull/819) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+3. 💪 Opened PR [#6067](https://github.com/labring/sealos/pull/6067) in [labring/sealos](https://github.com/labring/sealos)
+4. ❌ Closed PR [#6066](https://github.com/labring/sealos/pull/6066) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#819](https://github.com/cuisongliu/sealos/pull/819) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
 <!--END_SECTION:activity-->
 
 ---
