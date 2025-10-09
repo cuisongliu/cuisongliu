@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/weekly-labring/sealos-weekly/pull/1) in [weekly-labring/sealos-weekly](https://github.com/weekly-labring/sealos-weekly)
-2. 💪 Opened PR [#1](https://github.com/weekly-labring/sealos-weekly/pull/1) in [weekly-labring/sealos-weekly](https://github.com/weekly-labring/sealos-weekly)
-3. ❌ Closed PR [#278](https://github.com/labring-actions/cluster-image-docs/pull/278) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
-4. 🗣 Commented on [#6062](https://github.com/labring/sealos/issues/6062#issuecomment-3365657900) in [labring/sealos](https://github.com/labring/sealos)
-5. 🔒 Closed issue [#816](https://github.com/cuisongliu/sealos/issues/816) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+1. 💪 Opened PR [#6065](https://github.com/labring/sealos/pull/6065) in [labring/sealos](https://github.com/labring/sealos)
+2. 🎉 Merged PR [#1](https://github.com/weekly-labring/sealos-weekly/pull/1) in [weekly-labring/sealos-weekly](https://github.com/weekly-labring/sealos-weekly)
+3. 💪 Opened PR [#1](https://github.com/weekly-labring/sealos-weekly/pull/1) in [weekly-labring/sealos-weekly](https://github.com/weekly-labring/sealos-weekly)
+4. ❌ Closed PR [#278](https://github.com/labring-actions/cluster-image-docs/pull/278) in [labring-actions/cluster-image-docs](https://github.com/labring-actions/cluster-image-docs)
+5. 🗣 Commented on [#6062](https://github.com/labring/sealos/issues/6062#issuecomment-3365657900) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
