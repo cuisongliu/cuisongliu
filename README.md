@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#391](https://github.com/labring/aiproxy/pull/391) in [labring/aiproxy](https://github.com/labring/aiproxy)
-2. 🗣 Commented on [#6063](https://github.com/labring/sealos/pull/6063#issuecomment-3384571911) in [labring/sealos](https://github.com/labring/sealos)
-3. ❌ Closed PR [#819](https://github.com/cuisongliu/sealos/pull/819) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
-4. 💪 Opened PR [#6067](https://github.com/labring/sealos/pull/6067) in [labring/sealos](https://github.com/labring/sealos)
-5. ❌ Closed PR [#6066](https://github.com/labring/sealos/pull/6066) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#6073](https://github.com/labring/sealos/pull/6073) in [labring/sealos](https://github.com/labring/sealos)
+2. 💪 Opened PR [#6073](https://github.com/labring/sealos/pull/6073) in [labring/sealos](https://github.com/labring/sealos)
+3. 🗣 Commented on [#391](https://github.com/labring/aiproxy/pull/391#issuecomment-3393300128) in [labring/aiproxy](https://github.com/labring/aiproxy)
+4. 🗣 Commented on [#391](https://github.com/labring/aiproxy/pull/391#issuecomment-3393299531) in [labring/aiproxy](https://github.com/labring/aiproxy)
+5. 💪 Opened PR [#391](https://github.com/labring/aiproxy/pull/391) in [labring/aiproxy](https://github.com/labring/aiproxy)
 <!--END_SECTION:activity-->
 
 ---
