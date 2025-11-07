@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6144](https://github.com/labring/sealos/issues/6144) in [labring/sealos](https://github.com/labring/sealos)
-2. 🔒 Closed issue [#6142](https://github.com/labring/sealos/issues/6142) in [labring/sealos](https://github.com/labring/sealos)
-3. 🔒 Closed issue [#6135](https://github.com/labring/sealos/issues/6135) in [labring/sealos](https://github.com/labring/sealos)
-4. 🔒 Closed issue [#6129](https://github.com/labring/sealos/issues/6129) in [labring/sealos](https://github.com/labring/sealos)
-5. 🔒 Closed issue [#6130](https://github.com/labring/sealos/issues/6130) in [labring/sealos](https://github.com/labring/sealos)
+1. 🔒 Closed issue [#127](https://github.com/labring/endpoints-operator/issues/127) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+2. 💪 Opened PR [#408](undefined) in [labring/aiproxy](https://github.com/labring/aiproxy)
+3. 🔒 Closed issue [#6144](https://github.com/labring/sealos/issues/6144) in [labring/sealos](https://github.com/labring/sealos)
+4. 🔒 Closed issue [#6142](https://github.com/labring/sealos/issues/6142) in [labring/sealos](https://github.com/labring/sealos)
+5. 🔒 Closed issue [#6135](https://github.com/labring/sealos/issues/6135) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
