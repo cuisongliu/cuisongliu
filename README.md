@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6152](undefined) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#213](undefined) in [labring/sealos.io](https://github.com/labring/sealos.io)
-3. 🔒 Closed issue [#127](https://github.com/labring/endpoints-operator/issues/127) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
-4. 💪 Opened PR [#408](undefined) in [labring/aiproxy](https://github.com/labring/aiproxy)
-5. 🔒 Closed issue [#6144](https://github.com/labring/sealos/issues/6144) in [labring/sealos](https://github.com/labring/sealos)
+1. 💪 Opened PR [#6156](undefined) in [labring/sealos](https://github.com/labring/sealos)
+2. 💪 Opened PR [#6152](undefined) in [labring/sealos](https://github.com/labring/sealos)
+3. 💪 Opened PR [#213](undefined) in [labring/sealos.io](https://github.com/labring/sealos.io)
+4. 🔒 Closed issue [#127](https://github.com/labring/endpoints-operator/issues/127) in [labring/endpoints-operator](https://github.com/labring/endpoints-operator)
+5. 💪 Opened PR [#408](undefined) in [labring/aiproxy](https://github.com/labring/aiproxy)
 <!--END_SECTION:activity-->
 
 ---
