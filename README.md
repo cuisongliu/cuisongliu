@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#534](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
-2. 💪 Opened PR [#533](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
-3. 💪 Opened PR [#532](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
-4.  Labeled issue [#6196](https://github.com/labring/sealos/issues/6196) in [labring/sealos](https://github.com/labring/sealos)
-5. ❗ Opened issue [#6196](https://github.com/labring/sealos/issues/6196) in [labring/sealos](https://github.com/labring/sealos)
+1. 💪 Opened PR [#535](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
+2. 💪 Opened PR [#534](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
+3. 💪 Opened PR [#533](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
+4. 💪 Opened PR [#532](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
+5.  Labeled issue [#6196](https://github.com/labring/sealos/issues/6196) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
