@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6220](undefined) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#6219](undefined) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#6218](https://github.com/labring/sealos/pull/6218#issuecomment-3551032141) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#6218](undefined) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#6214](https://github.com/labring/sealos/issues/6214#issuecomment-3550402401) in [labring/sealos](https://github.com/labring/sealos)
+1. ❌ Closed PR [#6225](undefined) in [labring/sealos](https://github.com/labring/sealos)
+2. ❌ Closed PR [#6224](undefined) in [labring/sealos](https://github.com/labring/sealos)
+3. 💪 Opened PR [#6223](undefined) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#6220](undefined) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#6219](undefined) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
