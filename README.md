@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6246](undefined) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#6245](undefined) in [labring/sealos](https://github.com/labring/sealos)
-3. 🔒 Closed issue [#6243](https://github.com/labring/sealos/issues/6243) in [labring/sealos](https://github.com/labring/sealos)
-4. 🔒 Closed issue [#6057](https://github.com/labring/sealos/issues/6057) in [labring/sealos](https://github.com/labring/sealos)
-5. 🔒 Closed issue [#6229](https://github.com/labring/sealos/issues/6229) in [labring/sealos](https://github.com/labring/sealos)
+1. 🔒 Closed issue [#885](https://github.com/cuisongliu/sealos/issues/885) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+2. 🔒 Closed issue [#884](https://github.com/cuisongliu/sealos/issues/884) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+3. 🔒 Closed issue [#881](https://github.com/cuisongliu/sealos/issues/881) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+4. 🔒 Closed issue [#896](https://github.com/cuisongliu/sealos/issues/896) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+5. 🔒 Closed issue [#873](https://github.com/cuisongliu/sealos/issues/873) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
 <!--END_SECTION:activity-->
 
 ---
