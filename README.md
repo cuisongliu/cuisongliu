@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6261](https://github.com/labring/sealos/issues/6261) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#579](undefined) in [cockroachdb/helm-charts](https://github.com/cockroachdb/helm-charts)
-3. 🔒 Closed issue [#6248](https://github.com/labring/sealos/issues/6248) in [labring/sealos](https://github.com/labring/sealos)
-4. 🔒 Closed issue [#6253](https://github.com/labring/sealos/issues/6253) in [labring/sealos](https://github.com/labring/sealos)
-5. 🔒 Closed issue [#885](https://github.com/cuisongliu/sealos/issues/885) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+1. 🔒 Closed issue [#6262](https://github.com/labring/sealos/issues/6262) in [labring/sealos](https://github.com/labring/sealos)
+2. 🔒 Closed issue [#6263](https://github.com/labring/sealos/issues/6263) in [labring/sealos](https://github.com/labring/sealos)
+3. 🔒 Closed issue [#6264](https://github.com/labring/sealos/issues/6264) in [labring/sealos](https://github.com/labring/sealos)
+4. 🔒 Closed issue [#6261](https://github.com/labring/sealos/issues/6261) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#579](undefined) in [cockroachdb/helm-charts](https://github.com/cockroachdb/helm-charts)
 <!--END_SECTION:activity-->
 
 ---
