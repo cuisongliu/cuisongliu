@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](undefined) in [labring-actions/devbox-runtime](https://github.com/labring-actions/devbox-runtime)
-2. 🔒 Closed issue [#6313](https://github.com/labring/sealos/issues/6313) in [labring/sealos](https://github.com/labring/sealos)
-3. 🔒 Closed issue [#6305](https://github.com/labring/sealos/issues/6305) in [labring/sealos](https://github.com/labring/sealos)
-4. 🔒 Closed issue [#6302](https://github.com/labring/sealos/issues/6302) in [labring/sealos](https://github.com/labring/sealos)
-5. 🔒 Closed issue [#6300](https://github.com/labring/sealos/issues/6300) in [labring/sealos](https://github.com/labring/sealos)
+1. 🔒 Closed issue [#6338](https://github.com/labring/sealos/issues/6338) in [labring/sealos](https://github.com/labring/sealos)
+2. 🔒 Closed issue [#6337](https://github.com/labring/sealos/issues/6337) in [labring/sealos](https://github.com/labring/sealos)
+3. 🔒 Closed issue [#6328](https://github.com/labring/sealos/issues/6328) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#69](undefined) in [labring-actions/devbox-runtime](https://github.com/labring-actions/devbox-runtime)
+5. 🔒 Closed issue [#6313](https://github.com/labring/sealos/issues/6313) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
