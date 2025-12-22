@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#554](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
-2. 🔒 Closed issue [#6397](https://github.com/labring/sealos/issues/6397) in [labring/sealos](https://github.com/labring/sealos)
-3. 🔒 Closed issue [#6394](https://github.com/labring/sealos/issues/6394) in [labring/sealos](https://github.com/labring/sealos)
-4. ❌ Merged PR [#553](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
-5. 💪 Opened PR [#553](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
+1. ❌ Merged PR [#554](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
+2. 💪 Opened PR [#554](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
+3. 🔒 Closed issue [#6397](https://github.com/labring/sealos/issues/6397) in [labring/sealos](https://github.com/labring/sealos)
+4. 🔒 Closed issue [#6394](https://github.com/labring/sealos/issues/6394) in [labring/sealos](https://github.com/labring/sealos)
+5. ❌ Merged PR [#553](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
 <!--END_SECTION:activity-->
 
 ---
