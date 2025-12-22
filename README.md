@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#553](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
-2. 💪 Opened PR [#553](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
-3. ❌ Merged PR [#69](undefined) in [labring-actions/devbox-runtime](https://github.com/labring-actions/devbox-runtime)
-4. ❌ Merged PR [#6366](undefined) in [labring/sealos](https://github.com/labring/sealos)
-5. ❌ Merged PR [#6368](undefined) in [labring/sealos](https://github.com/labring/sealos)
+1. 🔒 Closed issue [#6397](https://github.com/labring/sealos/issues/6397) in [labring/sealos](https://github.com/labring/sealos)
+2. 🔒 Closed issue [#6394](https://github.com/labring/sealos/issues/6394) in [labring/sealos](https://github.com/labring/sealos)
+3. ❌ Merged PR [#553](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
+4. 💪 Opened PR [#553](undefined) in [labring-actions/templates](https://github.com/labring-actions/templates)
+5. ❌ Merged PR [#69](undefined) in [labring-actions/devbox-runtime](https://github.com/labring-actions/devbox-runtime)
 <!--END_SECTION:activity-->
 
 ---
