@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/cuisongliu/notes/issues/17) in [cuisongliu/notes](https://github.com/cuisongliu/notes)
-2. 🔒 Closed issue [#6441](https://github.com/labring/sealos/issues/6441) in [labring/sealos](https://github.com/labring/sealos)
-3. 🔒 Closed issue [#6452](https://github.com/labring/sealos/issues/6452) in [labring/sealos](https://github.com/labring/sealos)
-4. ❌ Merged PR [#6456](undefined) in [labring/sealos](https://github.com/labring/sealos)
-5. 💪 Opened PR [#6456](undefined) in [labring/sealos](https://github.com/labring/sealos)
+1. 🔒 Closed issue [#6441](https://github.com/labring/sealos/issues/6441) in [labring/sealos](https://github.com/labring/sealos)
+2. 🔒 Closed issue [#6452](https://github.com/labring/sealos/issues/6452) in [labring/sealos](https://github.com/labring/sealos)
+3. ❌ Merged PR [#6456](undefined) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#6456](undefined) in [labring/sealos](https://github.com/labring/sealos)
+5. ❌ Closed PR [#6455](undefined) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
