@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#584](https://github.com/labring-actions/templates/pull/584) in [labring-actions/templates](https://github.com/labring-actions/templates)
-2. 💪 Opened PR [#5](https://github.com/labring-sigs/sealos-io-docs/pull/5) in [labring-sigs/sealos-io-docs](https://github.com/labring-sigs/sealos-io-docs)
-3. 🎉 Merged PR [#4](https://github.com/labring-sigs/sealos-io-docs/pull/4) in [labring-sigs/sealos-io-docs](https://github.com/labring-sigs/sealos-io-docs)
-4. 💪 Opened PR [#4](https://github.com/labring-sigs/sealos-io-docs/pull/4) in [labring-sigs/sealos-io-docs](https://github.com/labring-sigs/sealos-io-docs)
-5. 🔒 Closed issue [#6522](https://github.com/labring/sealos/issues/6522) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#6](https://github.com/labring-sigs/sealos-io-docs/pull/6) in [labring-sigs/sealos-io-docs](https://github.com/labring-sigs/sealos-io-docs)
+2. 💪 Opened PR [#6](https://github.com/labring-sigs/sealos-io-docs/pull/6) in [labring-sigs/sealos-io-docs](https://github.com/labring-sigs/sealos-io-docs)
+3. 🎉 Merged PR [#5](https://github.com/labring-sigs/sealos-io-docs/pull/5) in [labring-sigs/sealos-io-docs](https://github.com/labring-sigs/sealos-io-docs)
+4. 💪 Opened PR [#584](https://github.com/labring-actions/templates/pull/584) in [labring-actions/templates](https://github.com/labring-actions/templates)
+5. 💪 Opened PR [#5](https://github.com/labring-sigs/sealos-io-docs/pull/5) in [labring-sigs/sealos-io-docs](https://github.com/labring-sigs/sealos-io-docs)
 <!--END_SECTION:activity-->
 
 ---
