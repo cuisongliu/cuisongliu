@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6592](https://github.com/labring/sealos/issues/6592) in [labring/sealos](https://github.com/labring/sealos)
-2. 🎉 Merged PR [#4](https://github.com/labring-sigs/templates/pull/4) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
-3. 💪 Opened PR [#4](https://github.com/labring-sigs/templates/pull/4) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
-4. 🎉 Merged PR [#3](https://github.com/labring-sigs/templates/pull/3) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
-5. 💪 Opened PR [#3](https://github.com/labring-sigs/templates/pull/3) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+1. 🔒 Closed issue [#1002](https://github.com/cuisongliu/sealos/issues/1002) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+2. 🔒 Closed issue [#1000](https://github.com/cuisongliu/sealos/issues/1000) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+3. 🔒 Closed issue [#991](https://github.com/cuisongliu/sealos/issues/991) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+4. 🔒 Closed issue [#988](https://github.com/cuisongliu/sealos/issues/988) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
+5. 🔒 Closed issue [#983](https://github.com/cuisongliu/sealos/issues/983) in [cuisongliu/sealos](https://github.com/cuisongliu/sealos)
 <!--END_SECTION:activity-->
 
 ---
