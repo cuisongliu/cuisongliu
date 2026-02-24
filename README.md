@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/labring-sigs/sealos-migrate/pull/1) in [labring-sigs/sealos-migrate](https://github.com/labring-sigs/sealos-migrate)
-2. 💪 Opened PR [#1](https://github.com/labring-sigs/sealos-migrate/pull/1) in [labring-sigs/sealos-migrate](https://github.com/labring-sigs/sealos-migrate)
-3. 🔒 Closed issue [#6686](https://github.com/labring/sealos/issues/6686) in [labring/sealos](https://github.com/labring/sealos)
-4. 🔒 Closed issue [#6692](https://github.com/labring/sealos/issues/6692) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#6693](https://github.com/labring/sealos/pull/6693) in [labring/sealos](https://github.com/labring/sealos)
+1. ℹ️ Assigned PR [#601](https://github.com/labring-actions/templates/pull/601) in [labring-actions/templates](https://github.com/labring-actions/templates)
+2. 🗣 Commented on [#601](https://github.com/labring-actions/templates/pull/601#issuecomment-3949327678) in [labring-actions/templates](https://github.com/labring-actions/templates)
+3. 🎉 Merged PR [#1](https://github.com/labring-sigs/sealos-migrate/pull/1) in [labring-sigs/sealos-migrate](https://github.com/labring-sigs/sealos-migrate)
+4. 💪 Opened PR [#1](https://github.com/labring-sigs/sealos-migrate/pull/1) in [labring-sigs/sealos-migrate](https://github.com/labring-sigs/sealos-migrate)
+5. 🔒 Closed issue [#6686](https://github.com/labring/sealos/issues/6686) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
