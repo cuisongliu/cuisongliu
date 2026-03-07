@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/labring-sigs/kite/pull/2) in [labring-sigs/kite](https://github.com/labring-sigs/kite)
-2. 💪 Opened PR [#2](https://github.com/labring-sigs/kite/pull/2) in [labring-sigs/kite](https://github.com/labring-sigs/kite)
-3. 🎉 Merged PR [#1](https://github.com/labring-sigs/kite/pull/1) in [labring-sigs/kite](https://github.com/labring-sigs/kite)
-4. 💪 Opened PR [#1](https://github.com/labring-sigs/kite/pull/1) in [labring-sigs/kite](https://github.com/labring-sigs/kite)
-5. 🔒 Closed issue [#6774](https://github.com/labring/sealos/issues/6774) in [labring/sealos](https://github.com/labring/sealos)
+1. 💪 Opened PR [#3](https://github.com/labring-sigs/kite/pull/3) in [labring-sigs/kite](https://github.com/labring-sigs/kite)
+2. 🎉 Merged PR [#2](https://github.com/labring-sigs/kite/pull/2) in [labring-sigs/kite](https://github.com/labring-sigs/kite)
+3. 💪 Opened PR [#2](https://github.com/labring-sigs/kite/pull/2) in [labring-sigs/kite](https://github.com/labring-sigs/kite)
+4. 🎉 Merged PR [#1](https://github.com/labring-sigs/kite/pull/1) in [labring-sigs/kite](https://github.com/labring-sigs/kite)
+5. 💪 Opened PR [#1](https://github.com/labring-sigs/kite/pull/1) in [labring-sigs/kite](https://github.com/labring-sigs/kite)
 <!--END_SECTION:activity-->
 
 ---
