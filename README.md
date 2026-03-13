@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/labring/sreg/pull/15) in [labring/sreg](https://github.com/labring/sreg)
-2. 💪 Opened PR [#15](https://github.com/labring/sreg/pull/15) in [labring/sreg](https://github.com/labring/sreg)
-3. 🎉 Merged PR [#14](https://github.com/labring/sreg/pull/14) in [labring/sreg](https://github.com/labring/sreg)
-4. 💪 Opened PR [#14](https://github.com/labring/sreg/pull/14) in [labring/sreg](https://github.com/labring/sreg)
-5. 🎉 Merged PR [#13](https://github.com/labring/sreg/pull/13) in [labring/sreg](https://github.com/labring/sreg)
+1. 🎉 Merged PR [#16](https://github.com/labring/sreg/pull/16) in [labring/sreg](https://github.com/labring/sreg)
+2. 💪 Opened PR [#16](https://github.com/labring/sreg/pull/16) in [labring/sreg](https://github.com/labring/sreg)
+3. 🎉 Merged PR [#15](https://github.com/labring/sreg/pull/15) in [labring/sreg](https://github.com/labring/sreg)
+4. 💪 Opened PR [#15](https://github.com/labring/sreg/pull/15) in [labring/sreg](https://github.com/labring/sreg)
+5. 🎉 Merged PR [#14](https://github.com/labring/sreg/pull/14) in [labring/sreg](https://github.com/labring/sreg)
 <!--END_SECTION:activity-->
 
 ---
