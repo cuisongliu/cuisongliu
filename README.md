@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/labring-sigs/templates/pull/9) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
-2. 🔒 Closed issue [#6788](https://github.com/labring/sealos/issues/6788) in [labring/sealos](https://github.com/labring/sealos)
-3. ❌ Closed PR [#6784](https://github.com/labring/sealos/pull/6784) in [labring/sealos](https://github.com/labring/sealos)
-4. 🎉 Merged PR [#6779](https://github.com/labring/sealos/pull/6779) in [labring/sealos](https://github.com/labring/sealos)
-5. 💪 Opened PR [#6779](https://github.com/labring/sealos/pull/6779) in [labring/sealos](https://github.com/labring/sealos)
+1. 💪 Opened PR [#15](https://github.com/labring/sreg/pull/15) in [labring/sreg](https://github.com/labring/sreg)
+2. 🎉 Merged PR [#14](https://github.com/labring/sreg/pull/14) in [labring/sreg](https://github.com/labring/sreg)
+3. 💪 Opened PR [#14](https://github.com/labring/sreg/pull/14) in [labring/sreg](https://github.com/labring/sreg)
+4. 🎉 Merged PR [#13](https://github.com/labring/sreg/pull/13) in [labring/sreg](https://github.com/labring/sreg)
+5. 💪 Opened PR [#13](https://github.com/labring/sreg/pull/13) in [labring/sreg](https://github.com/labring/sreg)
 <!--END_SECTION:activity-->
 
 ---
