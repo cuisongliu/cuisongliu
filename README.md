@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6892](https://github.com/labring/sealos/pull/6892) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#6892](https://github.com/labring/sealos/pull/6892) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#17](https://github.com/labring-sigs/templates/pull/17) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
-4. 💪 Opened PR [#17](https://github.com/labring-sigs/templates/pull/17) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
-5. 🎉 Merged PR [#7](https://github.com/sealos-apps/kite/pull/7) in [sealos-apps/kite](https://github.com/sealos-apps/kite)
+1. 🎉 Merged PR [#19](https://github.com/labring-sigs/templates/pull/19) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+2. 💪 Opened PR [#19](https://github.com/labring-sigs/templates/pull/19) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+3. ❌ Closed PR [#18](https://github.com/labring-sigs/templates/pull/18) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+4. 💪 Opened PR [#18](https://github.com/labring-sigs/templates/pull/18) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+5. 🎉 Merged PR [#6892](https://github.com/labring/sealos/pull/6892) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
