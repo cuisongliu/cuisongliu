@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/sealos-apps/dataflow/pull/7) in [sealos-apps/dataflow](https://github.com/sealos-apps/dataflow)
-2. 💪 Opened PR [#7](https://github.com/sealos-apps/dataflow/pull/7) in [sealos-apps/dataflow](https://github.com/sealos-apps/dataflow)
-3. 🎉 Merged PR [#6](https://github.com/sealos-apps/dataflow/pull/6) in [sealos-apps/dataflow](https://github.com/sealos-apps/dataflow)
-4. 💪 Opened PR [#6](https://github.com/sealos-apps/dataflow/pull/6) in [sealos-apps/dataflow](https://github.com/sealos-apps/dataflow)
-5. 🎉 Merged PR [#5](https://github.com/sealos-apps/dataflow/pull/5) in [sealos-apps/dataflow](https://github.com/sealos-apps/dataflow)
+1. 💪 Opened PR [#6](https://github.com/sealos-apps/devbox/pull/6) in [sealos-apps/devbox](https://github.com/sealos-apps/devbox)
+2. 🎉 Merged PR [#7](https://github.com/sealos-apps/dataflow/pull/7) in [sealos-apps/dataflow](https://github.com/sealos-apps/dataflow)
+3. 💪 Opened PR [#7](https://github.com/sealos-apps/dataflow/pull/7) in [sealos-apps/dataflow](https://github.com/sealos-apps/dataflow)
+4. 🎉 Merged PR [#6](https://github.com/sealos-apps/dataflow/pull/6) in [sealos-apps/dataflow](https://github.com/sealos-apps/dataflow)
+5. 💪 Opened PR [#6](https://github.com/sealos-apps/dataflow/pull/6) in [sealos-apps/dataflow](https://github.com/sealos-apps/dataflow)
 <!--END_SECTION:activity-->
 
 ---
