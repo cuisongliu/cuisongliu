@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6974](https://github.com/labring/sealos/pull/6974) in [labring/sealos](https://github.com/labring/sealos)
-2. 🎉 Merged PR [#15](https://github.com/sealos-apps/devbox/pull/15) in [sealos-apps/devbox](https://github.com/sealos-apps/devbox)
-3. 💪 Opened PR [#15](https://github.com/sealos-apps/devbox/pull/15) in [sealos-apps/devbox](https://github.com/sealos-apps/devbox)
-4. 💪 Opened PR [#6974](https://github.com/labring/sealos/pull/6974) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#10](https://github.com/sealos-apps/devbox/pull/10) in [sealos-apps/devbox](https://github.com/sealos-apps/devbox)
+1. 🎉 Merged PR [#26](https://github.com/labring-sigs/templates/pull/26) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+2. 💪 Opened PR [#26](https://github.com/labring-sigs/templates/pull/26) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+3. 🎉 Merged PR [#6974](https://github.com/labring/sealos/pull/6974) in [labring/sealos](https://github.com/labring/sealos)
+4. 🎉 Merged PR [#15](https://github.com/sealos-apps/devbox/pull/15) in [sealos-apps/devbox](https://github.com/sealos-apps/devbox)
+5. 💪 Opened PR [#15](https://github.com/sealos-apps/devbox/pull/15) in [sealos-apps/devbox](https://github.com/sealos-apps/devbox)
 <!--END_SECTION:activity-->
 
 ---
