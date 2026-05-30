@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/sealos-apps/aiproxy/pull/5) in [sealos-apps/aiproxy](https://github.com/sealos-apps/aiproxy)
-2. 💪 Opened PR [#5](https://github.com/sealos-apps/aiproxy/pull/5) in [sealos-apps/aiproxy](https://github.com/sealos-apps/aiproxy)
-3. 🎉 Merged PR [#1](https://github.com/sealos-apps/cronjob/pull/1) in [sealos-apps/cronjob](https://github.com/sealos-apps/cronjob)
-4. 💪 Opened PR [#1](https://github.com/sealos-apps/cronjob/pull/1) in [sealos-apps/cronjob](https://github.com/sealos-apps/cronjob)
-5. 🎉 Merged PR [#28](https://github.com/labring-sigs/templates/pull/28) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+1. 🎉 Merged PR [#6](https://github.com/sealos-apps/aiproxy/pull/6) in [sealos-apps/aiproxy](https://github.com/sealos-apps/aiproxy)
+2. 💪 Opened PR [#6](https://github.com/sealos-apps/aiproxy/pull/6) in [sealos-apps/aiproxy](https://github.com/sealos-apps/aiproxy)
+3. 🎉 Merged PR [#5](https://github.com/sealos-apps/aiproxy/pull/5) in [sealos-apps/aiproxy](https://github.com/sealos-apps/aiproxy)
+4. 💪 Opened PR [#5](https://github.com/sealos-apps/aiproxy/pull/5) in [sealos-apps/aiproxy](https://github.com/sealos-apps/aiproxy)
+5. 🎉 Merged PR [#1](https://github.com/sealos-apps/cronjob/pull/1) in [sealos-apps/cronjob](https://github.com/sealos-apps/cronjob)
 <!--END_SECTION:activity-->
 
 ---
