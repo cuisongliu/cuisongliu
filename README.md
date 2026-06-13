@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/labring-sigs/templates/pull/58) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
-2. 🎉 Merged PR [#57](https://github.com/labring-sigs/templates/pull/57) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
-3. ❗ Opened issue [#1](https://github.com/sealos-apps/storage-manager/issues/1) in [sealos-apps/storage-manager](https://github.com/sealos-apps/storage-manager)
-4. 💪 Opened PR [#57](https://github.com/labring-sigs/templates/pull/57) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
-5. 🎉 Merged PR [#56](https://github.com/labring-sigs/templates/pull/56) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+1. 💪 Opened PR [#63](https://github.com/labring-sigs/templates/pull/63) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+2. 💪 Opened PR [#62](https://github.com/labring-sigs/templates/pull/62) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+3. 💪 Opened PR [#61](https://github.com/labring-sigs/templates/pull/61) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+4. 🎉 Merged PR [#60](https://github.com/labring-sigs/templates/pull/60) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+5. 💪 Opened PR [#60](https://github.com/labring-sigs/templates/pull/60) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
 <!--END_SECTION:activity-->
 
 ---
