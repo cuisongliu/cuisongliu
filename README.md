@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.1.2-rc6-alpha1](https://github.com/sealos-apps/aiproxy/releases/tag/v5.1.2-rc6-alpha1) in [sealos-apps/aiproxy](https://github.com/sealos-apps/aiproxy)
-2. 🗣 Commented on [#6993](https://github.com/labring/sealos/pull/6993#issuecomment-4668285710) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#6](https://github.com/sealos-apps/aiproxy/pull/6) in [sealos-apps/aiproxy](https://github.com/sealos-apps/aiproxy)
-4. 💪 Opened PR [#6](https://github.com/sealos-apps/aiproxy/pull/6) in [sealos-apps/aiproxy](https://github.com/sealos-apps/aiproxy)
-5. 🎉 Merged PR [#5](https://github.com/sealos-apps/aiproxy/pull/5) in [sealos-apps/aiproxy](https://github.com/sealos-apps/aiproxy)
+1. 🎉 Merged PR [#37](https://github.com/labring-sigs/templates/pull/37) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+2. 💪 Opened PR [#37](https://github.com/labring-sigs/templates/pull/37) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+3. 💪 Opened PR [#36](https://github.com/labring-sigs/templates/pull/36) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+4. 🎉 Merged PR [#35](https://github.com/labring-sigs/templates/pull/35) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+5. 💪 Opened PR [#35](https://github.com/labring-sigs/templates/pull/35) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
 <!--END_SECTION:activity-->
 
 ---
