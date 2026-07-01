@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/sealos-apps/kite/pull/22) in [sealos-apps/kite](https://github.com/sealos-apps/kite)
-2. 💪 Opened PR [#1](https://github.com/cuisongliu/sealtun/pull/1) in [cuisongliu/sealtun](https://github.com/cuisongliu/sealtun)
-3. 🎉 Merged PR [#22](https://github.com/sealos-apps/kite/pull/22) in [sealos-apps/kite](https://github.com/sealos-apps/kite)
-4. 🎉 Merged PR [#214](https://github.com/labring-sigs/templates/pull/214) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
-5. 🎉 Merged PR [#207](https://github.com/labring-sigs/templates/pull/207) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+1. 💪 Opened PR [#233](https://github.com/labring-sigs/templates/pull/233) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
+2. 💪 Opened PR [#22](https://github.com/sealos-apps/kite/pull/22) in [sealos-apps/kite](https://github.com/sealos-apps/kite)
+3. 💪 Opened PR [#1](https://github.com/cuisongliu/sealtun/pull/1) in [cuisongliu/sealtun](https://github.com/cuisongliu/sealtun)
+4. 🎉 Merged PR [#22](https://github.com/sealos-apps/kite/pull/22) in [sealos-apps/kite](https://github.com/sealos-apps/kite)
+5. 🎉 Merged PR [#214](https://github.com/labring-sigs/templates/pull/214) in [labring-sigs/templates](https://github.com/labring-sigs/templates)
 <!--END_SECTION:activity-->
 
 ---
