@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7100](https://github.com/labring/sealos/pull/7100) in [labring/sealos](https://github.com/labring/sealos)
-2. 🎉 Merged PR [#1](https://github.com/sealos-apps/switch-region/pull/1) in [sealos-apps/switch-region](https://github.com/sealos-apps/switch-region)
-3. 💪 Opened PR [#1](https://github.com/sealos-apps/switch-region/pull/1) in [sealos-apps/switch-region](https://github.com/sealos-apps/switch-region)
-4. 🔒 Closed issue [#7091](https://github.com/labring/sealos/issues/7091) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#7092](https://github.com/labring/sealos/pull/7092) in [labring/sealos](https://github.com/labring/sealos)
+1. ❌ Closed PR [#7100](https://github.com/labring/sealos/pull/7100) in [labring/sealos](https://github.com/labring/sealos)
+2. 🎉 Merged PR [#1](https://github.com/sealos-apps/kubepanel/pull/1) in [sealos-apps/kubepanel](https://github.com/sealos-apps/kubepanel)
+3. 💪 Opened PR [#1](https://github.com/sealos-apps/kubepanel/pull/1) in [sealos-apps/kubepanel](https://github.com/sealos-apps/kubepanel)
+4. 💪 Opened PR [#7101](https://github.com/labring/sealos/pull/7101) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#7100](https://github.com/labring/sealos/pull/7100) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
