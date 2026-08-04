@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7152](https://github.com/labring/sealos/pull/7152) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#7152](https://github.com/labring/sealos/pull/7152) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#8](https://github.com/sealos-apps/cronjob/pull/8) in [sealos-apps/cronjob](https://github.com/sealos-apps/cronjob)
-4. 💪 Opened PR [#8](https://github.com/sealos-apps/cronjob/pull/8) in [sealos-apps/cronjob](https://github.com/sealos-apps/cronjob)
-5. 🎉 Merged PR [#7143](https://github.com/labring/sealos/pull/7143) in [labring/sealos](https://github.com/labring/sealos)
+1. ❌ Closed PR [#6121](https://github.com/labring/sealos/pull/6121) in [labring/sealos](https://github.com/labring/sealos)
+2. 🔒 Closed issue [#7153](https://github.com/labring/sealos/issues/7153) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#7152](https://github.com/labring/sealos/pull/7152) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#7152](https://github.com/labring/sealos/pull/7152) in [labring/sealos](https://github.com/labring/sealos)
+5. 🎉 Merged PR [#8](https://github.com/sealos-apps/cronjob/pull/8) in [sealos-apps/cronjob](https://github.com/sealos-apps/cronjob)
 <!--END_SECTION:activity-->
 
 ---
