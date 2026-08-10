@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7195](https://github.com/labring/sealos/pull/7195) in [labring/sealos](https://github.com/labring/sealos)
-2. 🔒 Closed issue [#7179](https://github.com/labring/sealos/issues/7179) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#7185](https://github.com/labring/sealos/pull/7185) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#7185](https://github.com/labring/sealos/pull/7185) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#10](https://github.com/felixqiu014-wq/vege-basket/pull/10) in [felixqiu014-wq/vege-basket](https://github.com/felixqiu014-wq/vege-basket)
+1. 🎉 Merged PR [#7195](https://github.com/labring/sealos/pull/7195) in [labring/sealos](https://github.com/labring/sealos)
+2. 💪 Opened PR [#7195](https://github.com/labring/sealos/pull/7195) in [labring/sealos](https://github.com/labring/sealos)
+3. 🔒 Closed issue [#7179](https://github.com/labring/sealos/issues/7179) in [labring/sealos](https://github.com/labring/sealos)
+4. 🎉 Merged PR [#7185](https://github.com/labring/sealos/pull/7185) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#7185](https://github.com/labring/sealos/pull/7185) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
