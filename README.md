@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/felixqiu014-wq/vege-basket/pull/14) in [felixqiu014-wq/vege-basket](https://github.com/felixqiu014-wq/vege-basket)
-2. 💪 Opened PR [#14](https://github.com/felixqiu014-wq/vege-basket/pull/14) in [felixqiu014-wq/vege-basket](https://github.com/felixqiu014-wq/vege-basket)
-3. 🔒 Closed issue [#7214](https://github.com/labring/sealos/issues/7214) in [labring/sealos](https://github.com/labring/sealos)
-4. 🎉 Merged PR [#7215](https://github.com/labring/sealos/pull/7215) in [labring/sealos](https://github.com/labring/sealos)
-5. 💪 Opened PR [#7215](https://github.com/labring/sealos/pull/7215) in [labring/sealos](https://github.com/labring/sealos)
+1. 💪 Opened PR [#7222](https://github.com/labring/sealos/pull/7222) in [labring/sealos](https://github.com/labring/sealos)
+2. 🎉 Merged PR [#14](https://github.com/felixqiu014-wq/vege-basket/pull/14) in [felixqiu014-wq/vege-basket](https://github.com/felixqiu014-wq/vege-basket)
+3. 💪 Opened PR [#14](https://github.com/felixqiu014-wq/vege-basket/pull/14) in [felixqiu014-wq/vege-basket](https://github.com/felixqiu014-wq/vege-basket)
+4. 🔒 Closed issue [#7214](https://github.com/labring/sealos/issues/7214) in [labring/sealos](https://github.com/labring/sealos)
+5. 🎉 Merged PR [#7215](https://github.com/labring/sealos/pull/7215) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
