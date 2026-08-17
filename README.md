@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7227](https://github.com/labring/sealos/pull/7227) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#7227](https://github.com/labring/sealos/pull/7227) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#7222](https://github.com/labring/sealos/pull/7222) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#7222](https://github.com/labring/sealos/pull/7222) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#14](https://github.com/felixqiu014-wq/vege-basket/pull/14) in [felixqiu014-wq/vege-basket](https://github.com/felixqiu014-wq/vege-basket)
+1. 🚀 Published release [v5.1.2-rc6](https://github.com/sealos-apps/storage-manager/releases/tag/v5.1.2-rc6) in [sealos-apps/storage-manager](https://github.com/sealos-apps/storage-manager)
+2. 🎉 Merged PR [#7227](https://github.com/labring/sealos/pull/7227) in [labring/sealos](https://github.com/labring/sealos)
+3. 💪 Opened PR [#7227](https://github.com/labring/sealos/pull/7227) in [labring/sealos](https://github.com/labring/sealos)
+4. 🎉 Merged PR [#7222](https://github.com/labring/sealos/pull/7222) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#7222](https://github.com/labring/sealos/pull/7222) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
