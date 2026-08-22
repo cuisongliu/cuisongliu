@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.1.2-rc6](https://github.com/sealos-apps/storage-manager/releases/tag/v5.1.2-rc6) in [sealos-apps/storage-manager](https://github.com/sealos-apps/storage-manager)
-2. 🎉 Merged PR [#7227](https://github.com/labring/sealos/pull/7227) in [labring/sealos](https://github.com/labring/sealos)
-3. 💪 Opened PR [#7227](https://github.com/labring/sealos/pull/7227) in [labring/sealos](https://github.com/labring/sealos)
-4. 🎉 Merged PR [#7222](https://github.com/labring/sealos/pull/7222) in [labring/sealos](https://github.com/labring/sealos)
-5. 💪 Opened PR [#7222](https://github.com/labring/sealos/pull/7222) in [labring/sealos](https://github.com/labring/sealos)
+1. ❌ Closed PR [#7238](https://github.com/labring/sealos/pull/7238) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#7056](https://github.com/labring/sealos/issues/7056#issuecomment-5378559489) in [labring/sealos](https://github.com/labring/sealos)
+3. 🚀 Published release [v5.1.2-rc6](https://github.com/sealos-apps/storage-manager/releases/tag/v5.1.2-rc6) in [sealos-apps/storage-manager](https://github.com/sealos-apps/storage-manager)
+4. 🎉 Merged PR [#7227](https://github.com/labring/sealos/pull/7227) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#7227](https://github.com/labring/sealos/pull/7227) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ---
