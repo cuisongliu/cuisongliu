@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/sealos-apps/terminal/pull/4) in [sealos-apps/terminal](https://github.com/sealos-apps/terminal)
-2. 🎉 Merged PR [#2](https://github.com/sealos-apps/skills/pull/2) in [sealos-apps/skills](https://github.com/sealos-apps/skills)
-3. 💪 Opened PR [#2](https://github.com/sealos-apps/skills/pull/2) in [sealos-apps/skills](https://github.com/sealos-apps/skills)
-4. 💪 Opened PR [#4](https://github.com/sealos-apps/terminal/pull/4) in [sealos-apps/terminal](https://github.com/sealos-apps/terminal)
-5. 🔒 Closed issue [#7250](https://github.com/labring/sealos/issues/7250) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#7261](https://github.com/labring/sealos/pull/7261) in [labring/sealos](https://github.com/labring/sealos)
+2. 💪 Opened PR [#7261](https://github.com/labring/sealos/pull/7261) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#4](https://github.com/sealos-apps/terminal/pull/4) in [sealos-apps/terminal](https://github.com/sealos-apps/terminal)
+4. 🎉 Merged PR [#2](https://github.com/sealos-apps/skills/pull/2) in [sealos-apps/skills](https://github.com/sealos-apps/skills)
+5. 💪 Opened PR [#2](https://github.com/sealos-apps/skills/pull/2) in [sealos-apps/skills](https://github.com/sealos-apps/skills)
 <!--END_SECTION:activity-->
 
 ---
