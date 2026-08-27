@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7264](https://github.com/labring/sealos/pull/7264) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#7264](https://github.com/labring/sealos/pull/7264) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#7261](https://github.com/labring/sealos/pull/7261) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#7261](https://github.com/labring/sealos/pull/7261) in [labring/sealos](https://github.com/labring/sealos)
-5. 🎉 Merged PR [#4](https://github.com/sealos-apps/terminal/pull/4) in [sealos-apps/terminal](https://github.com/sealos-apps/terminal)
+1. 🎉 Merged PR [#17](https://github.com/sealos-apps/vege-basket/pull/17) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
+2. 💪 Opened PR [#17](https://github.com/sealos-apps/vege-basket/pull/17) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
+3. 🎉 Merged PR [#14](https://github.com/cuisongliu/vege-basket/pull/14) in [cuisongliu/vege-basket](https://github.com/cuisongliu/vege-basket)
+4. 💪 Opened PR [#14](https://github.com/cuisongliu/vege-basket/pull/14) in [cuisongliu/vege-basket](https://github.com/cuisongliu/vege-basket)
+5. 🎉 Merged PR [#16](https://github.com/sealos-apps/vege-basket/pull/16) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
 <!--END_SECTION:activity-->
 
 ---
