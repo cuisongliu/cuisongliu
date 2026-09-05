@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sealos-apps/skills/pull/3) in [sealos-apps/skills](https://github.com/sealos-apps/skills)
-2. 💪 Opened PR [#3](https://github.com/sealos-apps/skills/pull/3) in [sealos-apps/skills](https://github.com/sealos-apps/skills)
-3. 💪 Opened PR [#29](https://github.com/sealos-apps/vege-basket/pull/29) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
-4. 🎉 Merged PR [#28](https://github.com/sealos-apps/vege-basket/pull/28) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
-5. 💪 Opened PR [#28](https://github.com/sealos-apps/vege-basket/pull/28) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
+1. 🎉 Merged PR [#29](https://github.com/sealos-apps/vege-basket/pull/29) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
+2. 🎉 Merged PR [#3](https://github.com/sealos-apps/skills/pull/3) in [sealos-apps/skills](https://github.com/sealos-apps/skills)
+3. 💪 Opened PR [#3](https://github.com/sealos-apps/skills/pull/3) in [sealos-apps/skills](https://github.com/sealos-apps/skills)
+4. 💪 Opened PR [#29](https://github.com/sealos-apps/vege-basket/pull/29) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
+5. 🎉 Merged PR [#28](https://github.com/sealos-apps/vege-basket/pull/28) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
 <!--END_SECTION:activity-->
 
 ---
