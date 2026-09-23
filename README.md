@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/sealos-apps/vege-basket/pull/76) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
-2. 🎉 Merged PR [#75](https://github.com/sealos-apps/vege-basket/pull/75) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
-3. 🎉 Merged PR [#74](https://github.com/sealos-apps/vege-basket/pull/74) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
-4. 💪 Opened PR [#75](https://github.com/sealos-apps/vege-basket/pull/75) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
-5. 💪 Opened PR [#74](https://github.com/sealos-apps/vege-basket/pull/74) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
+1. 💪 Opened PR [#77](https://github.com/sealos-apps/vege-basket/pull/77) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
+2. 💪 Opened PR [#76](https://github.com/sealos-apps/vege-basket/pull/76) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
+3. 🎉 Merged PR [#75](https://github.com/sealos-apps/vege-basket/pull/75) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
+4. 🎉 Merged PR [#74](https://github.com/sealos-apps/vege-basket/pull/74) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
+5. 💪 Opened PR [#75](https://github.com/sealos-apps/vege-basket/pull/75) in [sealos-apps/vege-basket](https://github.com/sealos-apps/vege-basket)
 <!--END_SECTION:activity-->
 
 ---
