@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7415](https://github.com/labring/sealos/pull/7415) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#7415](https://github.com/labring/sealos/pull/7415) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#8166](https://github.com/labring/FastGPT/pull/8166) in [labring/FastGPT](https://github.com/labring/FastGPT)
-4. 💪 Opened PR [#8166](https://github.com/labring/FastGPT/pull/8166) in [labring/FastGPT](https://github.com/labring/FastGPT)
-5. 💪 Opened PR [#8153](https://github.com/labring/FastGPT/pull/8153) in [labring/FastGPT](https://github.com/labring/FastGPT)
+1. 💪 Opened PR [#7428](https://github.com/labring/sealos/pull/7428) in [labring/sealos](https://github.com/labring/sealos)
+2. 🎉 Merged PR [#7415](https://github.com/labring/sealos/pull/7415) in [labring/sealos](https://github.com/labring/sealos)
+3. 💪 Opened PR [#7415](https://github.com/labring/sealos/pull/7415) in [labring/sealos](https://github.com/labring/sealos)
+4. 🎉 Merged PR [#8166](https://github.com/labring/FastGPT/pull/8166) in [labring/FastGPT](https://github.com/labring/FastGPT)
+5. 💪 Opened PR [#8166](https://github.com/labring/FastGPT/pull/8166) in [labring/FastGPT](https://github.com/labring/FastGPT)
 <!--END_SECTION:activity-->
 
 ---
