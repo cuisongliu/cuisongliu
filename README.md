@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/cuisongliu/macmini-task-monitor/pull/1) in [cuisongliu/macmini-task-monitor](https://github.com/cuisongliu/macmini-task-monitor)
-2. 🎉 Merged PR [#8217](https://github.com/labring/FastGPT/pull/8217) in [labring/FastGPT](https://github.com/labring/FastGPT)
-3. 💪 Opened PR [#8217](https://github.com/labring/FastGPT/pull/8217) in [labring/FastGPT](https://github.com/labring/FastGPT)
-4. ❌ Closed PR [#8216](https://github.com/labring/FastGPT/pull/8216) in [labring/FastGPT](https://github.com/labring/FastGPT)
-5. 🎉 Merged PR [#8153](https://github.com/labring/FastGPT/pull/8153) in [labring/FastGPT](https://github.com/labring/FastGPT)
+1. 🎉 Merged PR [#2](https://github.com/cuisongliu/macmini-task-monitor/pull/2) in [cuisongliu/macmini-task-monitor](https://github.com/cuisongliu/macmini-task-monitor)
+2. 💪 Opened PR [#2](https://github.com/cuisongliu/macmini-task-monitor/pull/2) in [cuisongliu/macmini-task-monitor](https://github.com/cuisongliu/macmini-task-monitor)
+3. 🎉 Merged PR [#1](https://github.com/cuisongliu/macmini-task-monitor/pull/1) in [cuisongliu/macmini-task-monitor](https://github.com/cuisongliu/macmini-task-monitor)
+4. 💪 Opened PR [#1](https://github.com/cuisongliu/macmini-task-monitor/pull/1) in [cuisongliu/macmini-task-monitor](https://github.com/cuisongliu/macmini-task-monitor)
+5. 🎉 Merged PR [#8217](https://github.com/labring/FastGPT/pull/8217) in [labring/FastGPT](https://github.com/labring/FastGPT)
 <!--END_SECTION:activity-->
 
 ---
