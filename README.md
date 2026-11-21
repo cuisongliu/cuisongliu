@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7448](https://github.com/labring/sealos/pull/7448) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#7448](https://github.com/labring/sealos/pull/7448) in [labring/sealos](https://github.com/labring/sealos)
-3. 🎉 Merged PR [#2](https://github.com/cuisongliu/macmini-task-monitor/pull/2) in [cuisongliu/macmini-task-monitor](https://github.com/cuisongliu/macmini-task-monitor)
-4. 💪 Opened PR [#2](https://github.com/cuisongliu/macmini-task-monitor/pull/2) in [cuisongliu/macmini-task-monitor](https://github.com/cuisongliu/macmini-task-monitor)
-5. 🎉 Merged PR [#1](https://github.com/cuisongliu/macmini-task-monitor/pull/1) in [cuisongliu/macmini-task-monitor](https://github.com/cuisongliu/macmini-task-monitor)
+1. 🎉 Merged PR [#7454](https://github.com/labring/sealos/pull/7454) in [labring/sealos](https://github.com/labring/sealos)
+2. 💪 Opened PR [#7454](https://github.com/labring/sealos/pull/7454) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#7448](https://github.com/labring/sealos/pull/7448) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#7448](https://github.com/labring/sealos/pull/7448) in [labring/sealos](https://github.com/labring/sealos)
+5. 🎉 Merged PR [#2](https://github.com/cuisongliu/macmini-task-monitor/pull/2) in [cuisongliu/macmini-task-monitor](https://github.com/cuisongliu/macmini-task-monitor)
 <!--END_SECTION:activity-->
 
 ---
